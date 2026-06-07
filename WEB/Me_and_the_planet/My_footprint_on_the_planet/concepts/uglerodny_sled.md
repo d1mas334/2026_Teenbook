@@ -23,6 +23,6 @@
 ***
 
 **См. также:**
-- [Куда девается мусор из моего ведра](kuda_devatsya_musor.md)
-- [Сколько пластика я использую за день](skolko_plastika.md)
-- [Личная ответственность перед планетой](lichnaya_otvetstvennost.md)
+- [Куда девается мусор из моего ведра](./kuda_devatsya_musor.md)
+- [Сколько пластика я использую за день](./skolko_plastika.md)
+- [Личная ответственность перед планетой](./lichnaya_otvetstvennost.md)

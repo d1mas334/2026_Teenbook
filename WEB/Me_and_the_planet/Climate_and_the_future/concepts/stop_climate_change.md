@@ -46,7 +46,7 @@ text
 🚲 Велосипед вместо авто = -2.4т CO₂/год
 🌱 Vegan 2 дня/неделя = -1т CO₂/год
 ✈️ 1 рейс меньше = -1.5т CO₂/год
-♻️ [Сортировка](../../Separate_collection_and_processing/concept/sorting-waste-at-home.md) + компост = -0.5т CO₂/год
+♻️ [Сортировка](../../Separate_collection_and_processing/concepts/sorting-waste-at-home.md) + компост = -0.5т CO₂/год
 💡 LED лампы + умный термостат = -0.3т CO₂/год
 
 text
@@ -79,6 +79,6 @@ text
 ***
 
 ## См. также:
-- [Глобальное потепление — это реально?](global_warming_real.md)
-- [Что будет через 50 лет](earth_50_years_future.md)
-- [Человеческий фактор](human_factor_crisis.md)
+- [Глобальное потепление — это реально?](./global_warming_real.md)
+- [Что будет через 50 лет](./earth_50_years_future.md)
+- [Человеческий фактор](./human_factor_crisis.md)

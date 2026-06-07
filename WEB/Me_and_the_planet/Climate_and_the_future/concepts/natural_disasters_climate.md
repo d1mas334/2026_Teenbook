@@ -55,6 +55,6 @@ text
 ***
 
 **См. также:**
-- [Глобальное потепление — это реально?](global_warming_real.md)
-- [Что будет через 50 лет](earth_50_years_future.md)
-- [Можно ли остановить изменения](stop_climate_change.md)
+- [Глобальное потепление — это реально?](./global_warming_real.md)
+- [Что будет через 50 лет](./earth_50_years_future.md)
+- [Можно ли остановить изменения](./stop_climate_change.md)
