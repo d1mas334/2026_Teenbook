@@ -40,7 +40,7 @@ text
 ✅ Каждый снижает выбросы на 5 тонн CO₂/год
 ✅ Голосуй за green policy
 ✅ Поддерживай renewable energy компании
-✅ Учи других — [климат](natural_disasters_climate.md) = общая проблема
+✅ Учи других — [климат](./natural_disasters_climate.md) = общая проблема
 
 text
 
@@ -49,6 +49,6 @@ text
 ***
 
 ## См. также:
-- [Природные катастрофы](natural_disasters_climate.md)
-- [Можно ли остановить изменения](stop_climate_change.md)
-- [Человеческий фактор](human_factor_crisis.md)
+- [Природные катастрофы](./natural_disasters_climate.md)
+- [Можно ли остановить изменения](./stop_climate_change.md)
+- [Человеческий фактор](./human_factor_crisis.md)

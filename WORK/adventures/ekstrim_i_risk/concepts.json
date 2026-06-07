@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Экстрим",
+      "file": "ekstrim.md"
+    },
+    {
+      "name": "Риск",
+      "file": "risk.md"
+    },
+    {
+      "name": "Адреналин",
+      "file": "adrenalin.md"
+    },
+    {
+      "name": "Спорт",
+      "file": "sport.md"
+    },
+    {
+      "name": "Безопасность",
+      "file": "bezopasnost.md"
+    }
+  ]
+}
