@@ -15,6 +15,6 @@
 - Ночевать в хостелах (дёшево и весело)
 - Брать еду с собой, а не покупать в кафе
 
-Если денег мало - не отказывайся от [приключения](../vykhod_iz_zony_komforta/concepts/priklyuchenie.md). Просто выбери вариант поближе и подешевле. [Поход](../lagerya_pokhody_ekspeditsii/concepts/pokhod.md) в соседний лес с ночёвкой может быть круче турецкого отеля.
+Если денег мало - не отказывайся от [приключения](../../vykhod_iz_zony_komforta/concepts/priklyuchenie.md). Просто выбери вариант поближе и подешевле. [Поход](../../lagerya_pokhody_ekspeditsii/concepts/pokhod.md) в соседний лес с ночёвкой может быть круче турецкого отеля.
 
-Главное правило: не влезай в долги ради [приключения](../vykhod_iz_zony_komforta/concepts/priklyuchenie.md). [Приключение](../vykhod_iz_zony_komforta/concepts/priklyuchenie.md) того не стоит. Лучше копить, чем занимать.
+Главное правило: не влезай в долги ради [приключения](../../vykhod_iz_zony_komforta/concepts/priklyuchenie.md). [Приключение](../../vykhod_iz_zony_komforta/concepts/priklyuchenie.md) того не стоит. Лучше копить, чем занимать.
