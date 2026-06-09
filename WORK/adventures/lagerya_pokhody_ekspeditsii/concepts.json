@@ -1,0 +1,28 @@
+{
+  "concepts": [
+    {
+      "name": "Поход",
+      "file": "pokhod.md"
+    },
+    {
+      "name": "Экспедиция",
+      "file": "ekspeditsiya.md"
+    },
+    {
+      "name": "Лагерь",
+      "file": "lager.md"
+    },
+    {
+      "name": "Команда",
+      "file": "komanda.md"
+    },
+    {
+      "name": "Роль",
+      "file": "rol.md"
+    },
+    {
+      "name": "Снаряжение",
+      "file": "snaryazhenie.md"
+    }
+  ]
+}

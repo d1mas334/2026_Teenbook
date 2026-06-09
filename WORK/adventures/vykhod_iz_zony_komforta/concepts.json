@@ -1,0 +1,16 @@
+{
+  "concepts": [
+    {
+      "name": "Приключение",
+      "file": "priklyuchenie.md"
+    },
+    {
+      "name": "Страх",
+      "file": "strakh.md"
+    },
+    {
+      "name": "Ошибка",
+      "file": "oshibka.md"
+    }
+  ]
+}
