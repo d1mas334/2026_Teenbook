@@ -1,0 +1,28 @@
+{
+  "concepts": [
+    {
+      "name": "Какие права есть у подростка",
+      "file": "teen-rights.md"
+    },
+    {
+      "name": "Что я уже могу решать сам, а где нужны родители",
+      "file": "what-i-can-decide.md"
+    },
+    {
+      "name": "Ответственность несовершеннолетних — с какого возраста и за что",
+      "file": "minor-responsibility.md"
+    },
+    {
+      "name": "Права в школе, дома и на улице",
+      "file": "rights-at-school-home-street.md"
+    },
+    {
+      "name": "Почему права идут вместе с обязанностями",
+      "file": "rights-and-duties.md"
+    },
+    {
+      "name": "Куда обращаться, если мои права нарушают",
+      "file": "where-to-get-help.md"
+    }
+  ]
+}

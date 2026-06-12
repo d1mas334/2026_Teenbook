@@ -1,0 +1,178 @@
+{
+  "project": "Я и государство: Я и школа как часть государства",
+  "source": "Wikidata Entity Search API",
+  "concepts": [
+    {
+      "search_term": "школа",
+      "matches": [
+        {
+          "id": "Q3914",
+          "label": "школа",
+          "description": "учебное заведение для детей и подростков",
+          "url": "http://www.wikidata.org/entity/Q3914"
+        },
+        {
+          "id": "Q1387659",
+          "label": "школа в науке и искусстве",
+          "description": "направление развития, представленное группой учёных, художников и т. п.",
+          "url": "http://www.wikidata.org/entity/Q1387659"
+        },
+        {
+          "id": "Q4189204",
+          "label": "Школа",
+          "description": "индийский фильм 2010 года",
+          "url": "http://www.wikidata.org/entity/Q4189204"
+        },
+        {
+          "id": "Q48041007",
+          "label": "Школа",
+          "description": "украинский телесериал 2018—2019 годов",
+          "url": "http://www.wikidata.org/entity/Q48041007"
+        },
+        {
+          "id": "Q4525028",
+          "label": "Школа",
+          "description": "российский телесериал 2010 года",
+          "url": "http://www.wikidata.org/entity/Q4525028"
+        }
+      ]
+    },
+    {
+      "search_term": "ученик",
+      "matches": [
+        {
+          "id": "Q48282",
+          "label": "ученик",
+          "description": "учащийся высшего, среднего или начального учебного заведения",
+          "url": "http://www.wikidata.org/entity/Q48282"
+        },
+        {
+          "id": "Q48942",
+          "label": "школьник",
+          "description": "учащийся в школе",
+          "url": "http://www.wikidata.org/entity/Q48942"
+        },
+        {
+          "id": "Q253567",
+          "label": "ученик",
+          "description": "person learning a trade",
+          "url": "http://www.wikidata.org/entity/Q253567"
+        },
+        {
+          "id": "Q863122",
+          "label": "The Apprentice",
+          "description": "американское реалити-шоу, ведущим которого был Дональд Трамп",
+          "url": "http://www.wikidata.org/entity/Q863122"
+        },
+        {
+          "id": "Q385586",
+          "label": "ученик",
+          "description": "student following a master",
+          "url": "http://www.wikidata.org/entity/Q385586"
+        }
+      ]
+    },
+    {
+      "search_term": "образование",
+      "matches": [
+        {
+          "id": "Q8434",
+          "label": "образование",
+          "description": "система обучения и приобретённые знания",
+          "url": "http://www.wikidata.org/entity/Q8434"
+        },
+        {
+          "id": "Q113976572",
+          "label": "образование",
+          "description": "making knowledge and skills available in a given subject or area",
+          "url": "http://www.wikidata.org/entity/Q113976572"
+        },
+        {
+          "id": "Q1217379",
+          "label": "воспитание",
+          "description": "преднамеренное и систематическое воздействие взрослых на поведение детей и подростков",
+          "url": "http://www.wikidata.org/entity/Q1217379"
+        },
+        {
+          "id": "Q2653450",
+          "label": "Образование",
+          "description": "German tradition of self-cultivation",
+          "url": "http://www.wikidata.org/entity/Q2653450"
+        },
+        {
+          "id": "Q55605752",
+          "label": "Образование",
+          "description": "фильм 2019 года режиссёра Оливии Уайлд",
+          "url": "http://www.wikidata.org/entity/Q55605752"
+        }
+      ]
+    },
+    {
+      "search_term": "право на образование",
+      "matches": [
+        {
+          "id": "Q69370",
+          "label": "право на образование",
+          "description": "universal entitlement to education",
+          "url": "http://www.wikidata.org/entity/Q69370"
+        }
+      ]
+    },
+    {
+      "search_term": "устав школы",
+      "matches": []
+    },
+    {
+      "search_term": "школьная дисциплина",
+      "matches": [
+        {
+          "id": "Q362165",
+          "label": "учебный предмет",
+          "description": "учебные курсы, которые изучаются в образовательных учреждениях",
+          "url": "http://www.wikidata.org/entity/Q362165"
+        },
+        {
+          "id": "Q18171",
+          "label": "школьная дисциплина",
+          "description": "виды дисциплинарных мер, применяемых школами к учащимся",
+          "url": "http://www.wikidata.org/entity/Q18171"
+        }
+      ]
+    },
+    {
+      "search_term": "оценка знаний",
+      "matches": []
+    },
+    {
+      "search_term": "буллинг в школе",
+      "matches": []
+    },
+    {
+      "search_term": "школьное самоуправление",
+      "matches": []
+    },
+    {
+      "search_term": "образовательная организация",
+      "matches": [
+        {
+          "id": "Q5341295",
+          "label": "образовательная организация",
+          "description": "body with an aim of education",
+          "url": "http://www.wikidata.org/entity/Q5341295"
+        },
+        {
+          "id": "Q1328304",
+          "label": "обучающая организация",
+          "description": "type of organization",
+          "url": "http://www.wikidata.org/entity/Q1328304"
+        },
+        {
+          "id": "Q10302378",
+          "label": "высшее учебное заведение",
+          "description": "тип образовательного учреждения в России и бывшего СССР",
+          "url": "http://www.wikidata.org/entity/Q10302378"
+        }
+      ]
+    }
+  ]
+}
