@@ -1,0 +1,74 @@
+{
+  "project": "Я и государство: Я и закон",
+  "source": "Wikidata Entity Search API",
+  "concepts": [
+    {
+      "search_term": "прививки",
+      "matches": [
+        {
+          "id": "Q85800970",
+          "label": "Прививки!!!",
+          "description": "3 серия 23 сезона мультсериала «Южный Парк»",
+          "url": "http://www.wikidata.org/entity/Q85800970"
+        },
+        {
+          "id": "Q4377830",
+          "label": "Прививка",
+          "description": "страница значений в проекте Викимедиа",
+          "url": "http://www.wikidata.org/entity/Q4377830"
+        }
+      ]
+    },
+    {
+      "search_term": "медицинские справки",
+      "matches": []
+    },
+    {
+      "search_term": "медицинская тайна",
+      "matches": [
+        {
+          "id": "Q2669281",
+          "label": "Врачебная тайна",
+          "description": "Запрет, медицинскому работнику, предоставлять, сообщать,  третьим лицам информацию о здоровье пациента",
+          "url": "http://www.wikidata.org/entity/Q2669281"
+        }
+      ]
+    },
+    {
+      "search_term": "медицинский осмотр",
+      "matches": [
+        {
+          "id": "Q4287917",
+          "label": "медосмотр",
+          "description": "тщательный физический осмотр; включает в себя различные тесты в зависимости от возраста, пола и состояния здоровья человека",
+          "url": "http://www.wikidata.org/entity/Q4287917"
+        }
+      ]
+    },
+    {
+      "search_term": "полис ОМС",
+      "matches": []
+    },
+    {
+      "search_term": "полис ДМС",
+      "matches": []
+    },
+    {
+      "search_term": "неотложная медицинская помощь",
+      "matches": [
+        {
+          "id": "Q2861470",
+          "label": "неотложная медицинская помощь",
+          "description": "раздел медицины",
+          "url": "http://www.wikidata.org/entity/Q2861470"
+        },
+        {
+          "id": "Q65228709",
+          "label": "неотложная медицинская помощь в морской медицине",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q65228709"
+        }
+      ]
+    }
+  ]
+}
