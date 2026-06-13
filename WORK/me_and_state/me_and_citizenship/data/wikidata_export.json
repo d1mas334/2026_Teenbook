@@ -3,70 +3,195 @@
   "source": "Wikidata Entity Search API",
   "concepts": [
     {
-      "search_term": "прививки",
+      "search_term": "гражданство",
       "matches": [
         {
-          "id": "Q85800970",
-          "label": "Прививки!!!",
-          "description": "3 серия 23 сезона мультсериала «Южный Парк»",
-          "url": "http://www.wikidata.org/entity/Q85800970"
+          "id": "Q42138",
+          "label": "гражданство",
+          "description": "принадлежность человека к государству",
+          "url": "http://www.wikidata.org/entity/Q42138"
         },
         {
-          "id": "Q4377830",
-          "label": "Прививка",
-          "description": "страница значений в проекте Викимедиа",
-          "url": "http://www.wikidata.org/entity/Q4377830"
-        }
-      ]
-    },
-    {
-      "search_term": "медицинские справки",
-      "matches": []
-    },
-    {
-      "search_term": "медицинская тайна",
-      "matches": [
-        {
-          "id": "Q2669281",
-          "label": "Врачебная тайна",
-          "description": "Запрет, медицинскому работнику, предоставлять, сообщать,  третьим лицам информацию о здоровье пациента",
-          "url": "http://www.wikidata.org/entity/Q2669281"
-        }
-      ]
-    },
-    {
-      "search_term": "медицинский осмотр",
-      "matches": [
-        {
-          "id": "Q4287917",
-          "label": "медосмотр",
-          "description": "тщательный физический осмотр; включает в себя различные тесты в зависимости от возраста, пола и состояния здоровья человека",
-          "url": "http://www.wikidata.org/entity/Q4287917"
-        }
-      ]
-    },
-    {
-      "search_term": "полис ОМС",
-      "matches": []
-    },
-    {
-      "search_term": "полис ДМС",
-      "matches": []
-    },
-    {
-      "search_term": "неотложная медицинская помощь",
-      "matches": [
-        {
-          "id": "Q2861470",
-          "label": "неотложная медицинская помощь",
-          "description": "раздел медицины",
-          "url": "http://www.wikidata.org/entity/Q2861470"
+          "id": "Q363404",
+          "label": "Гражданство Европейского союза",
+          "description": "граждане ЕС",
+          "url": "http://www.wikidata.org/entity/Q363404"
         },
         {
-          "id": "Q65228709",
-          "label": "неотложная медицинская помощь в морской медицине",
+          "id": "Q15133865",
+          "label": "Гражданство США",
+          "description": "люди в США",
+          "url": "http://www.wikidata.org/entity/Q15133865"
+        },
+        {
+          "id": "Q2910156",
+          "label": "Гражданство Государства Израиль",
+          "description": "законы, регулирующие израильское гражданство",
+          "url": "http://www.wikidata.org/entity/Q2910156"
+        },
+        {
+          "id": "Q1164879",
+          "label": "гражданство Франции",
+          "description": "law of being a French national",
+          "url": "http://www.wikidata.org/entity/Q1164879"
+        }
+      ]
+    },
+    {
+      "search_term": "гражданство России",
+      "matches": [
+        {
+          "id": "Q2754061",
+          "label": "Гражданство России",
+          "description": "Russian nationality",
+          "url": "http://www.wikidata.org/entity/Q2754061"
+        }
+      ]
+    },
+    {
+      "search_term": "права гражданина",
+      "matches": [
+        {
+          "id": "Q4375741",
+          "label": "Права гражданина",
           "description": "",
-          "url": "http://www.wikidata.org/entity/Q65228709"
+          "url": "http://www.wikidata.org/entity/Q4375741"
+        }
+      ]
+    },
+    {
+      "search_term": "обязанности гражданина",
+      "matches": []
+    },
+    {
+      "search_term": "двойное гражданство",
+      "matches": [
+        {
+          "id": "Q756296",
+          "label": "множественное гражданство",
+          "description": "правовой статус физического лица, имеющего одновременно гражданство двух государств",
+          "url": "http://www.wikidata.org/entity/Q756296"
+        },
+        {
+          "id": "Q99034793",
+          "label": "Двойное гражданство играет большую роль в деле объединения интересов граждан РА и диаспоры",
+          "description": "статья Викиновостей",
+          "url": "http://www.wikidata.org/entity/Q99034793"
+        },
+        {
+          "id": "Q99034792",
+          "label": "Двойное гражданство — новый шанс для укрепления связи между диаспорой и Арменией",
+          "description": "статья Викиновостей",
+          "url": "http://www.wikidata.org/entity/Q99034792"
+        },
+        {
+          "id": "Q4298939",
+          "label": "Множественное гражданство в России",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q4298939"
+        }
+      ]
+    },
+    {
+      "search_term": "натурализация",
+      "matches": [
+        {
+          "id": "Q841440",
+          "label": "натурализация",
+          "description": "юридический процесс приобретения гражданства на основе добровольного желания соискателя гражданства",
+          "url": "http://www.wikidata.org/entity/Q841440"
+        },
+        {
+          "id": "Q87333588",
+          "label": "ЭСГ/Натурализация",
+          "description": "статья в энциклопедическом словаре Гранат",
+          "url": "http://www.wikidata.org/entity/Q87333588"
+        },
+        {
+          "id": "Q2878495",
+          "label": "Натурализация (биология)",
+          "description": "экологические процессы",
+          "url": "http://www.wikidata.org/entity/Q2878495"
+        },
+        {
+          "id": "Q85624121",
+          "label": "Натурализация дисквалифицированных тяжелоатлетов – это издевательство и позор для Казахстана",
+          "description": "статья",
+          "url": "http://www.wikidata.org/entity/Q85624121"
+        },
+        {
+          "id": "Q100357408",
+          "label": "НАТУРАЛИЗАЦИЯ ТИХООКЕАНСКОГО ПОЛОСАТОГО ТРЁХЗУБОГО БЫЧКА TRIDENTIGER TRIGONOCEPHALUS (PERCIFORMES, GOBIIDAE) В ЧЕРНОМ МОРЕ (КРЫМ, СЕВАСТОПОЛЬСКАЯ БУХТА)",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q100357408"
+        }
+      ]
+    },
+    {
+      "search_term": "паспорт гражданина Российской Федерации",
+      "matches": [
+        {
+          "id": "Q147872",
+          "label": "Паспорт гражданина Российской Федерации",
+          "description": "удостоверение личности гражданина Росийской Федерации",
+          "url": "http://www.wikidata.org/entity/Q147872"
+        }
+      ]
+    },
+    {
+      "search_term": "апатрид",
+      "matches": [
+        {
+          "id": "Q223050",
+          "label": "апатрид",
+          "description": "физическое лицо, не имеющее какого-либо гражданства или подданства",
+          "url": "http://www.wikidata.org/entity/Q223050"
+        }
+      ]
+    },
+    {
+      "search_term": "иностранец",
+      "matches": [
+        {
+          "id": "Q473741",
+          "label": "иностранец",
+          "description": "граждане иного государства",
+          "url": "http://www.wikidata.org/entity/Q473741"
+        },
+        {
+          "id": "Q22252048",
+          "label": "Иностранец",
+          "description": "фильм 2017 года",
+          "url": "http://www.wikidata.org/entity/Q22252048"
+        },
+        {
+          "id": "Q1735808",
+          "label": "Иностранец",
+          "description": "2003 film by Michael Oblowitz",
+          "url": "http://www.wikidata.org/entity/Q1735808"
+        },
+        {
+          "id": "Q3545603",
+          "label": "Иностранец",
+          "description": "суперзлодей во вселенной Marvel Comics",
+          "url": "http://www.wikidata.org/entity/Q3545603"
+        },
+        {
+          "id": "Q4201290",
+          "label": "Иностранец",
+          "description": "2012 film by Niki Iliev",
+          "url": "http://www.wikidata.org/entity/Q4201290"
+        }
+      ]
+    },
+    {
+      "search_term": "миграционная служба",
+      "matches": [
+        {
+          "id": "Q99275169",
+          "label": "Миграционная служба Армении советует Азербайджану сначала уточнить реальное число своих беженцев",
+          "description": "статья Викиновостей",
+          "url": "http://www.wikidata.org/entity/Q99275169"
         }
       ]
     }

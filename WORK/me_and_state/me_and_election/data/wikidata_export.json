@@ -3,70 +3,218 @@
   "source": "Wikidata Entity Search API",
   "concepts": [
     {
-      "search_term": "прививки",
+      "search_term": "выборы",
       "matches": [
         {
-          "id": "Q85800970",
-          "label": "Прививки!!!",
-          "description": "3 серия 23 сезона мультсериала «Южный Парк»",
-          "url": "http://www.wikidata.org/entity/Q85800970"
+          "id": "Q40231",
+          "label": "выборы",
+          "description": "голосование за претендентов на должность",
+          "url": "http://www.wikidata.org/entity/Q40231"
         },
         {
-          "id": "Q4377830",
-          "label": "Прививка",
-          "description": "страница значений в проекте Викимедиа",
-          "url": "http://www.wikidata.org/entity/Q4377830"
-        }
-      ]
-    },
-    {
-      "search_term": "медицинские справки",
-      "matches": []
-    },
-    {
-      "search_term": "медицинская тайна",
-      "matches": [
-        {
-          "id": "Q2669281",
-          "label": "Врачебная тайна",
-          "description": "Запрет, медицинскому работнику, предоставлять, сообщать,  третьим лицам информацию о здоровье пациента",
-          "url": "http://www.wikidata.org/entity/Q2669281"
-        }
-      ]
-    },
-    {
-      "search_term": "медицинский осмотр",
-      "matches": [
-        {
-          "id": "Q4287917",
-          "label": "медосмотр",
-          "description": "тщательный физический осмотр; включает в себя различные тесты в зависимости от возраста, пола и состояния здоровья человека",
-          "url": "http://www.wikidata.org/entity/Q4287917"
-        }
-      ]
-    },
-    {
-      "search_term": "полис ОМС",
-      "matches": []
-    },
-    {
-      "search_term": "полис ДМС",
-      "matches": []
-    },
-    {
-      "search_term": "неотложная медицинская помощь",
-      "matches": [
-        {
-          "id": "Q2861470",
-          "label": "неотложная медицинская помощь",
-          "description": "раздел медицины",
-          "url": "http://www.wikidata.org/entity/Q2861470"
+          "id": "Q2131368",
+          "label": "Выборы",
+          "description": "2005 Hong Kong film directed by Johnnie To",
+          "url": "http://www.wikidata.org/entity/Q2131368"
         },
         {
-          "id": "Q65228709",
-          "label": "неотложная медицинская помощь в морской медицине",
+          "id": "Q2079836",
+          "label": "Выборы",
+          "description": "рассказ Айзека Азимова",
+          "url": "http://www.wikidata.org/entity/Q2079836"
+        },
+        {
+          "id": "Q5354509",
+          "label": "Выборы",
+          "description": "novel by Tom Perrotta",
+          "url": "http://www.wikidata.org/entity/Q5354509"
+        },
+        {
+          "id": "Q115678085",
+          "label": "ЭСГ/Выборы",
+          "description": "статья в энциклопедическом словаре Гранат",
+          "url": "http://www.wikidata.org/entity/Q115678085"
+        }
+      ]
+    },
+    {
+      "search_term": "избирательное право",
+      "matches": [
+        {
+          "id": "Q185387",
+          "label": "активное избирательное право",
+          "description": "право гражданина голосовать за избрание кандидата",
+          "url": "http://www.wikidata.org/entity/Q185387"
+        },
+        {
+          "id": "Q3721893",
+          "label": "пассивное избирательное право",
+          "description": "право гражданина быть кандидатурой на выборах",
+          "url": "http://www.wikidata.org/entity/Q3721893"
+        },
+        {
+          "id": "Q25379415",
+          "label": "Избирательное право",
           "description": "",
-          "url": "http://www.wikidata.org/entity/Q65228709"
+          "url": "http://www.wikidata.org/entity/Q25379415"
+        },
+        {
+          "id": "Q115334385",
+          "label": "ЭСГ/Избирательное право",
+          "description": "статья в энциклопедическом словаре Гранат",
+          "url": "http://www.wikidata.org/entity/Q115334385"
+        },
+        {
+          "id": "Q1810004",
+          "label": "объективное избирательное право",
+          "description": "законный порядок проведения выборов",
+          "url": "http://www.wikidata.org/entity/Q1810004"
+        }
+      ]
+    },
+    {
+      "search_term": "активное избирательное право",
+      "matches": [
+        {
+          "id": "Q185387",
+          "label": "активное избирательное право",
+          "description": "право гражданина голосовать за избрание кандидата",
+          "url": "http://www.wikidata.org/entity/Q185387"
+        },
+        {
+          "id": "Q106615890",
+          "label": "БСЭ1/Активное избирательное право",
+          "description": "статья в Большой советской энциклопедии, 1-е изд. (1926—1947)",
+          "url": "http://www.wikidata.org/entity/Q106615890"
+        }
+      ]
+    },
+    {
+      "search_term": "пассивное избирательное право",
+      "matches": [
+        {
+          "id": "Q3721893",
+          "label": "пассивное избирательное право",
+          "description": "право гражданина быть кандидатурой на выборах",
+          "url": "http://www.wikidata.org/entity/Q3721893"
+        }
+      ]
+    },
+    {
+      "search_term": "избирательный участок",
+      "matches": [
+        {
+          "id": "Q335778",
+          "label": "Избирательный участок",
+          "description": "site of ballot casting in elections",
+          "url": "http://www.wikidata.org/entity/Q335778"
+        },
+        {
+          "id": "Q3301455",
+          "label": "избирательный участок",
+          "description": "district into which a city or town is divided for voting",
+          "url": "http://www.wikidata.org/entity/Q3301455"
+        }
+      ]
+    },
+    {
+      "search_term": "наблюдатель на выборах",
+      "matches": []
+    },
+    {
+      "search_term": "избирательная комиссия",
+      "matches": [
+        {
+          "id": "Q935741",
+          "label": "избирательная комиссия",
+          "description": "body which oversees elections",
+          "url": "http://www.wikidata.org/entity/Q935741"
+        },
+        {
+          "id": "Q2724317",
+          "label": "Избирательная комиссия Индии",
+          "description": "election regulatory body of India",
+          "url": "http://www.wikidata.org/entity/Q2724317"
+        },
+        {
+          "id": "Q5354985",
+          "label": "Избирательная комиссия Южной Австралии",
+          "description": "Комиссия по парламентским выборам, базирующийся в Аделаиде",
+          "url": "http://www.wikidata.org/entity/Q5354985"
+        },
+        {
+          "id": "Q5354978",
+          "label": "Избирательная комиссия (Великобритания)",
+          "description": "an independent body set up by the UK Parliament",
+          "url": "http://www.wikidata.org/entity/Q5354978"
+        },
+        {
+          "id": "Q1321509",
+          "label": "Избирательная комиссия Таиланда",
+          "description": "independent government agency in Thailand",
+          "url": "http://www.wikidata.org/entity/Q1321509"
+        }
+      ]
+    },
+    {
+      "search_term": "тайна голосования",
+      "matches": []
+    },
+    {
+      "search_term": "политические права",
+      "matches": [
+        {
+          "id": "Q3709056",
+          "label": "политические права",
+          "description": "право граждан прямо или косвенно участвовать в формировании или управлении государством",
+          "url": "http://www.wikidata.org/entity/Q3709056"
+        },
+        {
+          "id": "Q1343981",
+          "label": "политические права",
+          "description": "overview of rights in politics",
+          "url": "http://www.wikidata.org/entity/Q1343981"
+        },
+        {
+          "id": "Q19199982",
+          "label": "Политические права",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q19199982"
+        }
+      ]
+    },
+    {
+      "search_term": "голосование",
+      "matches": [
+        {
+          "id": "Q189760",
+          "label": "голосование",
+          "description": "способ прийти к общему мнению",
+          "url": "http://www.wikidata.org/entity/Q189760"
+        },
+        {
+          "id": "Q54500336",
+          "label": "Голосование",
+          "description": "22nd episode of webcomic Pepper&Carrot",
+          "url": "http://www.wikidata.org/entity/Q54500336"
+        },
+        {
+          "id": "Q18603048",
+          "label": "Голосование",
+          "description": "2015 British play",
+          "url": "http://www.wikidata.org/entity/Q18603048"
+        },
+        {
+          "id": "Q98708776",
+          "label": "БСЭ1/Голосование",
+          "description": "статья в Большой советской энциклопедии, 1-е изд. (1926—1947)",
+          "url": "http://www.wikidata.org/entity/Q98708776"
+        },
+        {
+          "id": "Q15044040",
+          "label": "postal voting",
+          "description": "voting in an election whereby ballot papers are distributed or returned by post",
+          "url": "http://www.wikidata.org/entity/Q15044040"
         }
       ]
     }

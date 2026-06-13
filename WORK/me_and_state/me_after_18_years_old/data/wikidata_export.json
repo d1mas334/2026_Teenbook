@@ -3,72 +3,189 @@
   "source": "Wikidata Entity Search API",
   "concepts": [
     {
-      "search_term": "прививки",
+      "search_term": "совершеннолетие",
       "matches": [
         {
-          "id": "Q85800970",
-          "label": "Прививки!!!",
-          "description": "3 серия 23 сезона мультсериала «Южный Парк»",
-          "url": "http://www.wikidata.org/entity/Q85800970"
+          "id": "Q18000",
+          "label": "совершеннолетие",
+          "description": "начало полностью ответственного возраста, согласно закону",
+          "url": "http://www.wikidata.org/entity/Q18000"
         },
         {
-          "id": "Q4377830",
-          "label": "Прививка",
-          "description": "страница значений в проекте Викимедиа",
-          "url": "http://www.wikidata.org/entity/Q4377830"
-        }
-      ]
-    },
-    {
-      "search_term": "медицинские справки",
-      "matches": []
-    },
-    {
-      "search_term": "медицинская тайна",
-      "matches": [
-        {
-          "id": "Q2669281",
-          "label": "Врачебная тайна",
-          "description": "Запрет, медицинскому работнику, предоставлять, сообщать,  третьим лицам информацию о здоровье пациента",
-          "url": "http://www.wikidata.org/entity/Q2669281"
-        }
-      ]
-    },
-    {
-      "search_term": "медицинский осмотр",
-      "matches": [
-        {
-          "id": "Q4287917",
-          "label": "медосмотр",
-          "description": "тщательный физический осмотр; включает в себя различные тесты в зависимости от возраста, пола и состояния здоровья человека",
-          "url": "http://www.wikidata.org/entity/Q4287917"
-        }
-      ]
-    },
-    {
-      "search_term": "полис ОМС",
-      "matches": []
-    },
-    {
-      "search_term": "полис ДМС",
-      "matches": []
-    },
-    {
-      "search_term": "неотложная медицинская помощь",
-      "matches": [
-        {
-          "id": "Q2861470",
-          "label": "неотложная медицинская помощь",
-          "description": "раздел медицины",
-          "url": "http://www.wikidata.org/entity/Q2861470"
+          "id": "Q4691874",
+          "label": "Совершеннолетие",
+          "description": "1969 film by Michael Powell",
+          "url": "http://www.wikidata.org/entity/Q4691874"
         },
         {
-          "id": "Q65228709",
-          "label": "неотложная медицинская помощь в морской медицине",
+          "id": "Q56308437",
+          "label": "Совершеннолетие",
+          "description": "1935 film",
+          "url": "http://www.wikidata.org/entity/Q56308437"
+        },
+        {
+          "id": "Q19220547",
+          "label": "Совершеннолетие",
+          "description": "Стихотворение Николая Платоновича Огарёва",
+          "url": "http://www.wikidata.org/entity/Q19220547"
+        },
+        {
+          "id": "Q47015811",
+          "label": "Совершеннолетие",
+          "description": "Стихотворение Бориса Андреевича Богаткова",
+          "url": "http://www.wikidata.org/entity/Q47015811"
+        }
+      ]
+    },
+    {
+      "search_term": "полная дееспособность",
+      "matches": []
+    },
+    {
+      "search_term": "правоспособность",
+      "matches": [
+        {
+          "id": "Q889137",
+          "label": "правоспособность",
+          "description": "possibility to acquire rights and contract obligations for oneself",
+          "url": "http://www.wikidata.org/entity/Q889137"
+        },
+        {
+          "id": "Q106695792",
+          "label": "БСЭ1/Правоспособность",
+          "description": "статья в Большой советской энциклопедии, 1-е изд. (1926—1947)",
+          "url": "http://www.wikidata.org/entity/Q106695792"
+        },
+        {
+          "id": "Q87030118",
+          "label": "ЭСГ/Правоспособность",
+          "description": "статья в энциклопедическом словаре Гранат",
+          "url": "http://www.wikidata.org/entity/Q87030118"
+        }
+      ]
+    },
+    {
+      "search_term": "избирательное право",
+      "matches": [
+        {
+          "id": "Q185387",
+          "label": "активное избирательное право",
+          "description": "право гражданина голосовать за избрание кандидата",
+          "url": "http://www.wikidata.org/entity/Q185387"
+        },
+        {
+          "id": "Q3721893",
+          "label": "пассивное избирательное право",
+          "description": "право гражданина быть кандидатурой на выборах",
+          "url": "http://www.wikidata.org/entity/Q3721893"
+        },
+        {
+          "id": "Q25379415",
+          "label": "Избирательное право",
           "description": "",
-          "url": "http://www.wikidata.org/entity/Q65228709"
+          "url": "http://www.wikidata.org/entity/Q25379415"
+        },
+        {
+          "id": "Q115334385",
+          "label": "ЭСГ/Избирательное право",
+          "description": "статья в энциклопедическом словаре Гранат",
+          "url": "http://www.wikidata.org/entity/Q115334385"
+        },
+        {
+          "id": "Q1810004",
+          "label": "объективное избирательное право",
+          "description": "законный порядок проведения выборов",
+          "url": "http://www.wikidata.org/entity/Q1810004"
         }
       ]
+    },
+    {
+      "search_term": "воинская обязанность",
+      "matches": [
+        {
+          "id": "Q580750",
+          "label": "воинская обязанность",
+          "description": "обязанность мужчин (в некоторых государствах — и женщин) нести военную или национальную (альтернативную, гражданскую) службу",
+          "url": "http://www.wikidata.org/entity/Q580750"
+        },
+        {
+          "id": "Q5162770",
+          "label": "Воинская обязанность в Республике Корея",
+          "description": "compulsory military service in South Korea",
+          "url": "http://www.wikidata.org/entity/Q5162770"
+        },
+        {
+          "id": "Q4118976",
+          "label": "Воинская обязанность в России",
+          "description": "обзор вопросов призыва и обязательной службы в Российской империи, СССР и Российской Федерации",
+          "url": "http://www.wikidata.org/entity/Q4118976"
+        },
+        {
+          "id": "Q55116382",
+          "label": "Воинская обязанность в Азербайджане",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q55116382"
+        },
+        {
+          "id": "Q4122430",
+          "label": "Воинская обязанность в Белоруссии",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q4122430"
+        }
+      ]
+    },
+    {
+      "search_term": "уголовная ответственность",
+      "matches": [
+        {
+          "id": "Q2543031",
+          "label": "уголовная ответственность",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q2543031"
+        },
+        {
+          "id": "Q4469053",
+          "label": "Уголовно-правовой режим несовершеннолетних",
+          "description": "type of law on juvenile delinquency",
+          "url": "http://www.wikidata.org/entity/Q4469053"
+        },
+        {
+          "id": "Q5185533",
+          "label": "Уголовная ответственность за нарушение авторских прав в США",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q5185533"
+        }
+      ]
+    },
+    {
+      "search_term": "административная ответственность",
+      "matches": [
+        {
+          "id": "Q544739",
+          "label": "административная ответственность",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q544739"
+        }
+      ]
+    },
+    {
+      "search_term": "полная гражданская дееспособность",
+      "matches": []
+    },
+    {
+      "search_term": "несовершеннолетний",
+      "matches": [
+        {
+          "id": "Q170079",
+          "label": "несовершеннолетний",
+          "description": "person below a certain age prescribed by law, usually distinguished to delineate rights, privileges, and responsibilities",
+          "url": "http://www.wikidata.org/entity/Q170079"
+        }
+      ]
+    },
+    {
+      "search_term": "достижение 18 лет",
+      "matches": []
     }
   ]
 }

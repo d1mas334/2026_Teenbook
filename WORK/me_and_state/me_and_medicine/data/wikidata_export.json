@@ -3,72 +3,203 @@
   "source": "Wikidata Entity Search API",
   "concepts": [
     {
-      "search_term": "прививки",
+      "search_term": "медицина",
       "matches": [
         {
-          "id": "Q85800970",
-          "label": "Прививки!!!",
-          "description": "3 серия 23 сезона мультсериала «Южный Парк»",
-          "url": "http://www.wikidata.org/entity/Q85800970"
+          "id": "Q11190",
+          "label": "медицина",
+          "description": "область деятельности и знаний о лечении болезней",
+          "url": "http://www.wikidata.org/entity/Q11190"
         },
         {
-          "id": "Q4377830",
-          "label": "Прививка",
-          "description": "страница значений в проекте Викимедиа",
-          "url": "http://www.wikidata.org/entity/Q4377830"
+          "id": "Q4287726",
+          "label": "Медицина",
+          "description": "советское и российское государственное книжное издательство",
+          "url": "http://www.wikidata.org/entity/Q4287726"
+        },
+        {
+          "id": "Q170201",
+          "label": "ветеринарная медицина",
+          "description": "отрасль науки, которая занимается профилактикой, диагностикой и лечением болезней, а также расстройствами и травмами животных",
+          "url": "http://www.wikidata.org/entity/Q170201"
+        },
+        {
+          "id": "Q11776859",
+          "label": "Медицина",
+          "description": "картина Густава Климта",
+          "url": "http://www.wikidata.org/entity/Q11776859"
+        },
+        {
+          "id": "Q109580445",
+          "label": "БСЭ1/Медицина",
+          "description": "статья в Большой советской энциклопедии, 1-е изд. (1926—1947)",
+          "url": "http://www.wikidata.org/entity/Q109580445"
         }
       ]
     },
     {
-      "search_term": "медицинские справки",
-      "matches": []
+      "search_term": "здравоохранение",
+      "matches": [
+        {
+          "id": "Q31207",
+          "label": "здравоохранение",
+          "description": "prevention of disease and promotion of wellbeing of humans and animals",
+          "url": "http://www.wikidata.org/entity/Q31207"
+        },
+        {
+          "id": "Q15067276",
+          "label": "здравоохранение",
+          "description": "отрасль, занимающаяся предоставлением услуг и продукции в сфере здравоохранения",
+          "url": "http://www.wikidata.org/entity/Q15067276"
+        },
+        {
+          "id": "Q27722400",
+          "label": "Здравоохранение",
+          "description": "журнал Министерства здравоохранения Белоруссии",
+          "url": "http://www.wikidata.org/entity/Q27722400"
+        },
+        {
+          "id": "Q64027602",
+          "label": "здравоохранение по стране или региону",
+          "description": "тип аспекта в географическом регионе",
+          "url": "http://www.wikidata.org/entity/Q64027602"
+        },
+        {
+          "id": "Q1358017",
+          "label": "здравоохранение в США",
+          "description": "health care system in the United States of America",
+          "url": "http://www.wikidata.org/entity/Q1358017"
+        }
+      ]
     },
     {
-      "search_term": "медицинская тайна",
+      "search_term": "пациент",
+      "matches": [
+        {
+          "id": "Q181600",
+          "label": "пациент",
+          "description": "person who takes a medical treatment or is subject of a case study",
+          "url": "http://www.wikidata.org/entity/Q181600"
+        },
+        {
+          "id": "Q112980305",
+          "label": "Пациент",
+          "description": "американский психологический сериал 2022 года",
+          "url": "http://www.wikidata.org/entity/Q112980305"
+        },
+        {
+          "id": "Q56301580",
+          "label": "Пациент",
+          "description": "рассказ Эдны Халл",
+          "url": "http://www.wikidata.org/entity/Q56301580"
+        },
+        {
+          "id": "Q1465636",
+          "label": "Пациенты",
+          "description": "американский телесериал",
+          "url": "http://www.wikidata.org/entity/Q1465636"
+        },
+        {
+          "id": "Q1388154",
+          "label": "Пациент Мецский",
+          "description": "4th bishop of Metz",
+          "url": "http://www.wikidata.org/entity/Q1388154"
+        }
+      ]
+    },
+    {
+      "search_term": "права ребенка",
+      "matches": [
+        {
+          "id": "Q8354948",
+          "label": "права ребёнка",
+          "description": "human rights of children",
+          "url": "http://www.wikidata.org/entity/Q8354948"
+        },
+        {
+          "id": "Q1521415",
+          "label": "Права ребёнка",
+          "description": "social and political movement advocating the rights of children",
+          "url": "http://www.wikidata.org/entity/Q1521415"
+        }
+      ]
+    },
+    {
+      "search_term": "несовершеннолетний",
+      "matches": [
+        {
+          "id": "Q170079",
+          "label": "несовершеннолетний",
+          "description": "person below a certain age prescribed by law, usually distinguished to delineate rights, privileges, and responsibilities",
+          "url": "http://www.wikidata.org/entity/Q170079"
+        }
+      ]
+    },
+    {
+      "search_term": "медицинское вмешательство",
+      "matches": [
+        {
+          "id": "Q9383871",
+          "label": "медицинское вмешательство",
+          "description": "вид медицинской деятельности, используемый для диагностики, профилактики и лечения пациента",
+          "url": "http://www.wikidata.org/entity/Q9383871"
+        }
+      ]
+    },
+    {
+      "search_term": "информированное согласие",
+      "matches": [
+        {
+          "id": "Q764527",
+          "label": "информированное добровольное согласие",
+          "description": "process by means of which a research participant agrees to be the subject of research",
+          "url": "http://www.wikidata.org/entity/Q764527"
+        },
+        {
+          "id": "Q21653935",
+          "label": "Информированное согласие в психиатрии",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q21653935"
+        }
+      ]
+    },
+    {
+      "search_term": "врачебная тайна",
       "matches": [
         {
           "id": "Q2669281",
           "label": "Врачебная тайна",
           "description": "Запрет, медицинскому работнику, предоставлять, сообщать,  третьим лицам информацию о здоровье пациента",
           "url": "http://www.wikidata.org/entity/Q2669281"
-        }
-      ]
-    },
-    {
-      "search_term": "медицинский осмотр",
-      "matches": [
-        {
-          "id": "Q4287917",
-          "label": "медосмотр",
-          "description": "тщательный физический осмотр; включает в себя различные тесты в зависимости от возраста, пола и состояния здоровья человека",
-          "url": "http://www.wikidata.org/entity/Q4287917"
-        }
-      ]
-    },
-    {
-      "search_term": "полис ОМС",
-      "matches": []
-    },
-    {
-      "search_term": "полис ДМС",
-      "matches": []
-    },
-    {
-      "search_term": "неотложная медицинская помощь",
-      "matches": [
-        {
-          "id": "Q2861470",
-          "label": "неотложная медицинская помощь",
-          "description": "раздел медицины",
-          "url": "http://www.wikidata.org/entity/Q2861470"
         },
         {
-          "id": "Q65228709",
-          "label": "неотложная медицинская помощь в морской медицине",
-          "description": "",
-          "url": "http://www.wikidata.org/entity/Q65228709"
+          "id": "Q76940500",
+          "label": "Врачебная тайна",
+          "description": "фильм Августа Ригера и Карла Штанцля 1955 года",
+          "url": "http://www.wikidata.org/entity/Q76940500"
         }
       ]
+    },
+    {
+      "search_term": "медицинская помощь",
+      "matches": [
+        {
+          "id": "Q689846",
+          "label": "ассистированный суицид",
+          "description": "суицид, совершенный с помощью другого человека",
+          "url": "http://www.wikidata.org/entity/Q689846"
+        },
+        {
+          "id": "Q28130218",
+          "label": "Медицинская помощь трансгендерным людям",
+          "description": "prevention of disease and promotion of wellbeing for transgender individuals",
+          "url": "http://www.wikidata.org/entity/Q28130218"
+        }
+      ]
+    },
+    {
+      "search_term": "отказ в медицинской помощи",
+      "matches": []
     }
   ]
 }

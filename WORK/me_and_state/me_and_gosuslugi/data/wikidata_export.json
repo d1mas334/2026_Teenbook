@@ -3,70 +3,104 @@
   "source": "Wikidata Entity Search API",
   "concepts": [
     {
-      "search_term": "прививки",
+      "search_term": "госуслуги",
       "matches": [
         {
-          "id": "Q85800970",
-          "label": "Прививки!!!",
-          "description": "3 серия 23 сезона мультсериала «Южный Парк»",
-          "url": "http://www.wikidata.org/entity/Q85800970"
+          "id": "Q4373230",
+          "label": "Портал государственных услуг Российской Федерации",
+          "description": "справочно-информационный интернет-портал России",
+          "url": "http://www.wikidata.org/entity/Q4373230"
         },
         {
-          "id": "Q4377830",
-          "label": "Прививка",
-          "description": "страница значений в проекте Викимедиа",
-          "url": "http://www.wikidata.org/entity/Q4377830"
+          "id": "Q57449742",
+          "label": "Многофункциональный центр",
+          "description": "категория бюджетных учреждений в России, предоставляющих государственные и муниципальные услуги",
+          "url": "http://www.wikidata.org/entity/Q57449742"
         }
       ]
     },
     {
-      "search_term": "медицинские справки",
+      "search_term": "цифровое государство",
       "matches": []
     },
     {
-      "search_term": "медицинская тайна",
+      "search_term": "учётная запись",
       "matches": [
         {
-          "id": "Q2669281",
-          "label": "Врачебная тайна",
-          "description": "Запрет, медицинскому работнику, предоставлять, сообщать,  третьим лицам информацию о здоровье пациента",
-          "url": "http://www.wikidata.org/entity/Q2669281"
-        }
-      ]
-    },
-    {
-      "search_term": "медицинский осмотр",
-      "matches": [
-        {
-          "id": "Q4287917",
-          "label": "медосмотр",
-          "description": "тщательный физический осмотр; включает в себя различные тесты в зависимости от возраста, пола и состояния здоровья человека",
-          "url": "http://www.wikidata.org/entity/Q4287917"
-        }
-      ]
-    },
-    {
-      "search_term": "полис ОМС",
-      "matches": []
-    },
-    {
-      "search_term": "полис ДМС",
-      "matches": []
-    },
-    {
-      "search_term": "неотложная медицинская помощь",
-      "matches": [
-        {
-          "id": "Q2861470",
-          "label": "неотложная медицинская помощь",
-          "description": "раздел медицины",
-          "url": "http://www.wikidata.org/entity/Q2861470"
+          "id": "Q3604202",
+          "label": "учётная запись",
+          "description": "совокупность данных о пользователе, необходимая для его опознавания и предоставления доступа к данным и настройкам",
+          "url": "http://www.wikidata.org/entity/Q3604202"
         },
         {
-          "id": "Q65228709",
-          "label": "неотложная медицинская помощь в морской медицине",
+          "id": "Q63976454",
+          "label": "лента X (Твиттера)",
+          "description": "user account on X, formerly Twitter",
+          "url": "http://www.wikidata.org/entity/Q63976454"
+        },
+        {
+          "id": "Q82057890",
+          "label": "учётная запись Twitter с материалами деликатного характера",
+          "description": "учётная запись Twitter, содержащая материалы деликатного и потенциально оскорбительного для некоторых пользователей характера, например, порнографию или сцены жестокости (т.н. NSFW)",
+          "url": "http://www.wikidata.org/entity/Q82057890"
+        },
+        {
+          "id": "Q102345381",
+          "label": "учётная запись в социальной сети",
+          "description": "user account on a social network",
+          "url": "http://www.wikidata.org/entity/Q102345381"
+        },
+        {
+          "id": "Q113459057",
+          "label": "учётная запись государственного служащего",
+          "description": "social media account of an individual in their role as a government official, as opposed to a personal or campaign account; for use with P3831",
+          "url": "http://www.wikidata.org/entity/Q113459057"
+        }
+      ]
+    },
+    {
+      "search_term": "подтверждённая учётная запись",
+      "matches": []
+    },
+    {
+      "search_term": "простая электронная подпись",
+      "matches": []
+    },
+    {
+      "search_term": "двухфакторная аутентификация",
+      "matches": [
+        {
+          "id": "Q17086335",
+          "label": "двухфакторная аутентификация",
+          "description": "authentication method in which a computer user is granted access only after successfully presenting two pieces of evidence (or factors) to an authentication mechanism",
+          "url": "http://www.wikidata.org/entity/Q17086335"
+        }
+      ]
+    },
+    {
+      "search_term": "электронные государственные услуги",
+      "matches": []
+    },
+    {
+      "search_term": "защита персональных данных",
+      "matches": [
+        {
+          "id": "Q456632",
+          "label": "защита персональных данных",
+          "description": "категория в проекте Викимедия",
+          "url": "http://www.wikidata.org/entity/Q456632"
+        },
+        {
+          "id": "Q1247836",
+          "label": "Защита персональных данных",
+          "description": "area of law",
+          "url": "http://www.wikidata.org/entity/Q1247836"
+        },
+        {
+          "id": "Q16653598",
+          "label": "Защита персональных данных в интернете в странах Европейского Союза",
           "description": "",
-          "url": "http://www.wikidata.org/entity/Q65228709"
+          "url": "http://www.wikidata.org/entity/Q16653598"
         }
       ]
     }
