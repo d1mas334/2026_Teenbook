@@ -22,14 +22,89 @@ STOP_WORDS = {
 
 
 def get_sections():
-    work_dir = pathlib.Path(__file__).resolve().parent.parent
+    work_dir = pathlib.Path(__file__).resolve().parent
     sections = []
-    for level1 in work_dir.iterdir():
-        if level1.is_dir() and level1.name != "scripts":
-            for level2 in level1.iterdir():
-                if level2.is_dir():
-                    sections.append(level2)
+    for concepts_file in work_dir.rglob("concepts.json"):
+        section_path = concepts_file.parent
+        wikidata_file = section_path / "data" / "wikidata_export.json"
+        if wikidata_file.exists():
+            sections.append(section_path)
     return sections
+
+
+def add_item(descriptions, items, wd_id, label, description):
+    if not wd_id or not label:
+        return
+
+    # исключаем английские термины
+    if re.search(r'[a-zA-Z]', label):
+        return
+
+    term_data = {"id": wd_id, "label": label, "description": description or ""}
+
+    descriptions[wd_id] = term_data
+    descriptions[label.lower()] = term_data
+
+    if label.endswith(('а', 'я')):
+        descriptions[label[:-1].lower()] = term_data
+    if label.endswith('ие'):
+        descriptions[label[:-2].lower()] = term_data
+
+    items.append({
+        "id": wd_id,
+        "label": label,
+        "description": description or "",
+        "label_lower": label.lower()
+    })
+
+
+def load_sparql_bindings(data, descriptions, items):
+    for binding in data.get("results", {}).get("bindings", []):
+        uri = binding.get("item", {}).get("value", "")
+        if not uri.startswith("http://www.wikidata.org/entity/Q"):
+            continue
+        
+        wd_id = uri.split("/")[-1]
+        label = binding.get("itemLabel", {}).get("value", "")
+        description = binding.get("description", {}).get("value", "")
+        add_item(descriptions, items, wd_id, label, description)
+
+
+def load_converted_concepts(data, descriptions, items):
+    for concept in data.get("concepts", []):
+        if not isinstance(concept, dict):
+            continue
+
+        # Формат Wikidata Entity Search API:
+        # {"search_term": "...", "matches": [{"id": "Q...", "label": "..."}]}
+        if "matches" in concept:
+            for match in concept.get("matches", []):
+                if not isinstance(match, dict):
+                    continue
+                add_item(
+                    descriptions,
+                    items,
+                    match.get("id", ""),
+                    match.get("label", ""),
+                    match.get("description", "")
+                )
+            continue
+
+        # Формат некоторых query.py:
+        # {"concept": "http://www.wikidata.org/entity/Q...", "conceptLabel": "..."}
+        uri = concept.get("concept", "")
+        wd_id = concept.get("wikidata_id") or concept.get("id", "")
+        if not wd_id and isinstance(uri, str) and uri.startswith("http://www.wikidata.org/entity/Q"):
+            wd_id = uri.split("/")[-1]
+
+        label = (
+            concept.get("conceptLabel")
+            or concept.get("label")
+            or concept.get("name")
+            or ""
+        )
+        description = concept.get("description", "")
+        add_item(descriptions, items, wd_id, label, description)
 
 
 def load_wikidata(filepath):
@@ -41,39 +116,15 @@ def load_wikidata(filepath):
     
     with open(filepath, 'r', encoding='utf-8') as f:
         data = json.load(f)
-    
-    for binding in data.get("results", {}).get("bindings", []):
-        uri = binding.get("item", {}).get("value", "")
-        if not uri.startswith("http://www.wikidata.org/entity/Q"):
-            continue
-        
-        wd_id = uri.split("/")[-1]
-        label = binding.get("itemLabel", {}).get("value", "")
-        description = binding.get("description", {}).get("value", "")
-        
-        if not label:
-            continue
-        
-        # исключаем английские термины
-        if re.search(r'[a-zA-Z]', label):
-            continue
-        
-        term_data = {"id": wd_id, "label": label, "description": description}
-        
-        descriptions[wd_id] = term_data
-        descriptions[label.lower()] = term_data
-        
-        if label.endswith(('а', 'я')):
-            descriptions[label[:-1]] = term_data
-        if label.endswith('ие'):
-            descriptions[label[:-2]] = term_data
-        
-        items.append({
-            "id": wd_id,
-            "label": label,
-            "description": description,
-            "label_lower": label.lower()
-        })
+
+    if isinstance(data, list):
+        data = {"concepts": data}
+
+    if not isinstance(data, dict):
+        return descriptions, items
+
+    load_sparql_bindings(data, descriptions, items)
+    load_converted_concepts(data, descriptions, items)
     
     return descriptions, items
 
@@ -248,6 +299,30 @@ def collect_all_terms():
     return result
 
 
+def web_article_path(article):
+    repo_root = pathlib.Path(__file__).resolve().parent.parent
+    web_root = repo_root / "WEB"
+    filename = article["file"] or f"{article['title'].lower().replace(' ', '_')}.md"
+
+    topic = article["topic"]
+    section = article["section"]
+    topic_web = topic.replace(" ", "_")
+    section_web = section.replace(" ", "_")
+
+    candidates = [
+        web_root / topic / section / "concepts" / filename,
+        web_root / topic_web / section_web / "concepts" / filename,
+        web_root / section / "concepts" / filename,
+        web_root / section_web / "concepts" / filename,
+    ]
+
+    for candidate in candidates:
+        if candidate.exists():
+            return "/" + candidate.relative_to(repo_root).as_posix()
+
+    return None
+
+
 def generate_markdown(terms, output_path="WEB/glossary.md"):
     if not terms:
         print("Нет найденных терминов.")
@@ -283,12 +358,17 @@ def generate_markdown(terms, output_path="WEB/glossary.md"):
                     md += f"**Wikidata:** {links}\n\n"
             
             if term["articles"]:
-                md += f"**Встречается в статьях:**\n\n"
+                existing_articles = []
                 for article in term["articles"]:
-                    filename = article["file"] or f"{article['title'].lower().replace(' ', '_')}.md"
-                    path = f"/{article['topic']}/{article['section']}/concepts/{filename.replace('.md', '.html')}" # т.к. jekyll преобразует md в html 
-                    md += f"- [{article['title']}]({path}) – *{article['section']}*\n"
-                md += "\n"
+                    path = web_article_path(article)
+                    if path:
+                        existing_articles.append((article, path))
+
+                if existing_articles:
+                    md += f"**Встречается в статьях:**\n\n"
+                    for article, path in existing_articles:
+                        md += f"- [{article['title']}]({path}) – *{article['section']}*\n"
+                    md += "\n"
             else:
                 pass
                 # md += f"*Термин не встречается в статьях.*\n\n"

@@ -1,28 +1,28 @@
 {
   "concepts": [
     {
-      "name": "Зачем нужны законы, если не все их соблюдают",
-      "file": "why-laws-exist.md"
+      "name": "Что означает полная дееспособность с 18 лет",
+      "file": "full-legal-capacity-after-18.md"
     },
     {
-      "name": "Что считается правонарушением",
-      "file": "what-is-an-offense.md"
+      "name": "Новые права: гражданские, политические, семейные и трудовые",
+      "file": "new-adult-rights.md"
     },
     {
-      "name": "Административная и уголовная ответственность — в чем разница",
-      "file": "administrative-vs-criminal-responsibility.md"
+      "name": "Полная ответственность: уголовная, административная и материальная",
+      "file": "full-adult-responsibility.md"
     },
     {
-      "name": "Незнание закона освобождает от ответственности или нет",
-      "file": "ignorance-of-law.md"
+      "name": "Воинская обязанность и воинский учёт",
+      "file": "military-duty-and-registration.md"
     },
     {
-      "name": "Почему нельзя “просто пошутить” с законом",
-      "file": "jokes-and-law.md"
+      "name": "Медицинские и образовательные права после 18 лет",
+      "file": "medical-and-education-rights-after-18.md"
     },
     {
-      "name": "Как понять, где шутка, а где уже нарушение",
-      "file": "joke-or-offense.md"
+      "name": "Как подготовиться ко взрослой правовой жизни",
+      "file": "preparing-for-adult-legal-life.md"
     }
   ]
 }

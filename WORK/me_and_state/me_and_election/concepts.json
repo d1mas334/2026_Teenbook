@@ -1,28 +1,28 @@
 {
   "concepts": [
     {
-      "name": "Зачем нужны законы, если не все их соблюдают",
-      "file": "why-laws-exist.md"
+      "name": "Что такое выборы и зачем они нужны",
+      "file": "what-elections-are-for.md"
     },
     {
-      "name": "Что считается правонарушением",
-      "file": "what-is-an-offense.md"
+      "name": "Активное и пассивное избирательное право: возраст и условия",
+      "file": "active-and-passive-voting-rights.md"
     },
     {
-      "name": "Административная и уголовная ответственность — в чем разница",
-      "file": "administrative-vs-criminal-responsibility.md"
+      "name": "Как найти свой избирательный участок и проголосовать",
+      "file": "how-to-vote.md"
     },
     {
-      "name": "Незнание закона освобождает от ответственности или нет",
-      "file": "ignorance-of-law.md"
+      "name": "Правила поведения на участке и тайна голосования",
+      "file": "polling-station-rules.md"
     },
     {
-      "name": "Почему нельзя “просто пошутить” с законом",
-      "file": "jokes-and-law.md"
+      "name": "Как стать наблюдателем или членом избирательной комиссии",
+      "file": "election-observer-or-commission-member.md"
     },
     {
-      "name": "Как понять, где шутка, а где уже нарушение",
-      "file": "joke-or-offense.md"
+      "name": "Куда сообщить о нарушениях на выборах",
+      "file": "election-violations.md"
     }
   ]
 }

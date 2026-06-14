@@ -1,28 +1,28 @@
 {
   "concepts": [
     {
-      "name": "Зачем нужны законы, если не все их соблюдают",
-      "file": "why-laws-exist.md"
+      "name": "Что такое гражданство и зачем оно нужно",
+      "file": "what-citizenship-is.md"
     },
     {
-      "name": "Что считается правонарушением",
-      "file": "what-is-an-offense.md"
+      "name": "Как приобретается гражданство Российской Федерации",
+      "file": "how-russian-citizenship-is-acquired.md"
     },
     {
-      "name": "Административная и уголовная ответственность — в чем разница",
-      "file": "administrative-vs-criminal-responsibility.md"
+      "name": "Права и обязанности гражданина",
+      "file": "citizen-rights-and-duties.md"
     },
     {
-      "name": "Незнание закона освобождает от ответственности или нет",
-      "file": "ignorance-of-law.md"
+      "name": "Двойное гражданство и второе гражданство: разрешено ли и что за этим следует",
+      "file": "dual-and-second-citizenship.md"
     },
     {
-      "name": "Почему нельзя “просто пошутить” с законом",
-      "file": "jokes-and-law.md"
+      "name": "Как подтвердить гражданство и получить паспорт",
+      "file": "confirm-citizenship-and-passport.md"
     },
     {
-      "name": "Как понять, где шутка, а где уже нарушение",
-      "file": "joke-or-offense.md"
+      "name": "Утрата, выход и лишение гражданства: возможно ли это",
+      "file": "loss-and-renunciation-of-citizenship.md"
     }
   ]
 }

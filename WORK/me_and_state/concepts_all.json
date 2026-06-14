@@ -1,0 +1,431 @@
+{
+  "concepts": [
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Зачем нужен паспорт и что меняется после 14 лет",
+      "file": "passport-after-14.md",
+      "web_path": "WEB/me_and_state/my_documents/concepts/passport-after-14.md"
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "СНИЛС, ИНН, полис ОМС — что это и где используется",
+      "file": "snils-inn-oms.md",
+      "web_path": "WEB/me_and_state/my_documents/concepts/snils-inn-oms.md"
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Регистрация по месту жительства — зачем она нужна",
+      "file": "residence-registration.md",
+      "web_path": "WEB/me_and_state/my_documents/concepts/residence-registration.md"
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Что делать, если потерял документы",
+      "file": "lost-documents.md",
+      "web_path": "WEB/me_and_state/my_documents/concepts/lost-documents.md"
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Почему нельзя отдавать паспорт и данные кому попало",
+      "file": "personal-data-safety.md",
+      "web_path": "WEB/me_and_state/my_documents/concepts/personal-data-safety.md"
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Электронные документы и Госуслуги — удобно или опасно",
+      "file": "digital-documents-and-gosuslugi.md",
+      "web_path": "WEB/me_and_state/my_documents/concepts/digital-documents-and-gosuslugi.md"
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Какие права есть у подростка",
+      "file": "teen-rights.md",
+      "web_path": "WEB/me_and_state/my_rights_and_responsibilities/concepts/teen-rights.md"
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Что я уже могу решать сам, а где нужны родители",
+      "file": "what-i-can-decide.md",
+      "web_path": "WEB/me_and_state/my_rights_and_responsibilities/concepts/what-i-can-decide.md"
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Ответственность несовершеннолетних — с какого возраста и за что",
+      "file": "minor-responsibility.md",
+      "web_path": "WEB/me_and_state/my_rights_and_responsibilities/concepts/minor-responsibility.md"
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Права в школе, дома и на улице",
+      "file": "rights-at-school-home-street.md",
+      "web_path": "WEB/me_and_state/my_rights_and_responsibilities/concepts/rights-at-school-home-street.md"
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Почему права идут вместе с обязанностями",
+      "file": "rights-and-duties.md",
+      "web_path": "WEB/me_and_state/my_rights_and_responsibilities/concepts/rights-and-duties.md"
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Куда обращаться, если мои права нарушают",
+      "file": "where-to-get-help.md",
+      "web_path": "WEB/me_and_state/my_rights_and_responsibilities/concepts/where-to-get-help.md"
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Зачем нужны законы, если не все их соблюдают",
+      "file": "why-laws-exist.md",
+      "web_path": "WEB/me_and_state/me_and_law/concepts/why-laws-exist.md"
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Что считается правонарушением",
+      "file": "what-is-an-offense.md",
+      "web_path": "WEB/me_and_state/me_and_law/concepts/what-is-an-offense.md"
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Административная и уголовная ответственность — в чем разница",
+      "file": "administrative-vs-criminal-responsibility.md",
+      "web_path": "WEB/me_and_state/me_and_law/concepts/administrative-vs-criminal-responsibility.md"
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Незнание закона освобождает от ответственности или нет",
+      "file": "ignorance-of-law.md",
+      "web_path": "WEB/me_and_state/me_and_law/concepts/ignorance-of-law.md"
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Почему нельзя “просто пошутить” с законом",
+      "file": "jokes-and-law.md",
+      "web_path": "WEB/me_and_state/me_and_law/concepts/jokes-and-law.md"
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Как понять, где шутка, а где уже нарушение",
+      "file": "joke-or-offense.md",
+      "web_path": "WEB/me_and_state/me_and_law/concepts/joke-or-offense.md"
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Какие права есть у ученика",
+      "file": "student-rights.md",
+      "web_path": "WEB/me_and_state/school_as_part_of_state/concepts/student-rights.md"
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Что школа обязана делать для учеников",
+      "file": "school-responsibilities.md",
+      "web_path": "WEB/me_and_state/school_as_part_of_state/concepts/school-responsibilities.md"
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Устав школы — зачем он нужен",
+      "file": "school-charter.md",
+      "web_path": "WEB/me_and_state/school_as_part_of_state/concepts/school-charter.md"
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Оценки, дисциплина и жалобы — где границы",
+      "file": "grades-discipline-complaints.md",
+      "web_path": "WEB/me_and_state/school_as_part_of_state/concepts/grades-discipline-complaints.md"
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Что делать, если учитель или одноклассники нарушают твои права",
+      "file": "rights-violation-at-school.md",
+      "web_path": "WEB/me_and_state/school_as_part_of_state/concepts/rights-violation-at-school.md"
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Школьное самоуправление — можно ли реально влиять",
+      "file": "student-self-government.md",
+      "web_path": "WEB/me_and_state/school_as_part_of_state/concepts/student-self-government.md"
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Когда полиция может остановить подростка",
+      "file": "when-police-can-stop-a-teen.md",
+      "web_path": "WEB/me_and_state/me_and_police/concepts/when-police-can-stop-a-teen.md"
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Как вести себя при разговоре с полицейским",
+      "file": "how-to-talk-to-police.md",
+      "web_path": "WEB/me_and_state/me_and_police/concepts/how-to-talk-to-police.md"
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Можно ли требовать позвонить родителям",
+      "file": "calling-parents.md",
+      "web_path": "WEB/me_and_state/me_and_police/concepts/calling-parents.md"
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Что делать, если тебя забрали в отделение",
+      "file": "taken-to-police-station.md",
+      "web_path": "WEB/me_and_state/me_and_police/concepts/taken-to-police-station.md"
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Почему важно не грубить и не подписывать непонятное",
+      "file": "do-not-sign-unclear-documents.md",
+      "web_path": "WEB/me_and_state/me_and_police/concepts/do-not-sign-unclear-documents.md"
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Куда жаловаться, если полиция нарушила права",
+      "file": "complaints-about-police.md",
+      "web_path": "WEB/me_and_state/me_and_police/concepts/complaints-about-police.md"
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Когда и как подросток может обратиться за медицинской помощью",
+      "file": "teen-medical-help.md",
+      "web_path": "WEB/me_and_state/me_and_medicine/concepts/teen-medical-help.md"
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Какие права есть у несовершеннолетнего пациента",
+      "file": "minor-patient-rights.md",
+      "web_path": "WEB/me_and_state/me_and_medicine/concepts/minor-patient-rights.md"
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Согласие на медицинское вмешательство: кто и когда даёт",
+      "file": "medical-consent.md",
+      "web_path": "WEB/me_and_state/me_and_medicine/concepts/medical-consent.md"
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Что делать, если отказывают в помощи",
+      "file": "medical-help-refusal.md",
+      "web_path": "WEB/me_and_state/me_and_medicine/concepts/medical-help-refusal.md"
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Врачебная тайна и конфиденциальность",
+      "file": "medical-confidentiality.md",
+      "web_path": "WEB/me_and_state/me_and_medicine/concepts/medical-confidentiality.md"
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Куда жаловаться на нарушение прав в медицине",
+      "file": "medical-rights-complaints.md",
+      "web_path": "WEB/me_and_state/me_and_medicine/concepts/medical-rights-complaints.md"
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Что означает полная дееспособность с 18 лет",
+      "file": "full-legal-capacity-after-18.md",
+      "web_path": "WEB/me_and_state/me_after_18_years_old/concepts/full-legal-capacity-after-18.md"
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Новые права: гражданские, политические, семейные и трудовые",
+      "file": "new-adult-rights.md",
+      "web_path": "WEB/me_and_state/me_after_18_years_old/concepts/new-adult-rights.md"
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Полная ответственность: уголовная, административная и материальная",
+      "file": "full-adult-responsibility.md",
+      "web_path": "WEB/me_and_state/me_after_18_years_old/concepts/full-adult-responsibility.md"
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Воинская обязанность и воинский учёт",
+      "file": "military-duty-and-registration.md",
+      "web_path": "WEB/me_and_state/me_after_18_years_old/concepts/military-duty-and-registration.md"
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Медицинские и образовательные права после 18 лет",
+      "file": "medical-and-education-rights-after-18.md",
+      "web_path": "WEB/me_and_state/me_after_18_years_old/concepts/medical-and-education-rights-after-18.md"
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Как подготовиться ко взрослой правовой жизни",
+      "file": "preparing-for-adult-legal-life.md",
+      "web_path": "WEB/me_and_state/me_after_18_years_old/concepts/preparing-for-adult-legal-life.md"
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Что такое выборы и зачем они нужны",
+      "file": "what-elections-are-for.md",
+      "web_path": "WEB/me_and_state/me_and_election/concepts/what-elections-are-for.md"
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Активное и пассивное избирательное право: возраст и условия",
+      "file": "active-and-passive-voting-rights.md",
+      "web_path": "WEB/me_and_state/me_and_election/concepts/active-and-passive-voting-rights.md"
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Как найти свой избирательный участок и проголосовать",
+      "file": "how-to-vote.md",
+      "web_path": "WEB/me_and_state/me_and_election/concepts/how-to-vote.md"
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Правила поведения на участке и тайна голосования",
+      "file": "polling-station-rules.md",
+      "web_path": "WEB/me_and_state/me_and_election/concepts/polling-station-rules.md"
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Как стать наблюдателем или членом избирательной комиссии",
+      "file": "election-observer-or-commission-member.md",
+      "web_path": "WEB/me_and_state/me_and_election/concepts/election-observer-or-commission-member.md"
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Куда сообщить о нарушениях на выборах",
+      "file": "election-violations.md",
+      "web_path": "WEB/me_and_state/me_and_election/concepts/election-violations.md"
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Что такое портал «Госуслуги» и зачем он нужен",
+      "file": "what-gosuslugi-is.md",
+      "web_path": "WEB/me_and_state/me_and_gosuslugi/concepts/what-gosuslugi-is.md"
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Уровни учётной записи: упрощённая, стандартная, подтверждённая",
+      "file": "account-levels.md",
+      "web_path": "WEB/me_and_state/me_and_gosuslugi/concepts/account-levels.md"
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Как зарегистрироваться и подтвердить личность",
+      "file": "registration-and-verification.md",
+      "web_path": "WEB/me_and_state/me_and_gosuslugi/concepts/registration-and-verification.md"
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Какие услуги доступны до 14, с 14 и с 18 лет",
+      "file": "services-by-age.md",
+      "web_path": "WEB/me_and_state/me_and_gosuslugi/concepts/services-by-age.md"
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Электронная подпись и согласие законного представителя",
+      "file": "electronic-signature-and-parental-consent.md",
+      "web_path": "WEB/me_and_state/me_and_gosuslugi/concepts/electronic-signature-and-parental-consent.md"
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Безопасность: защита паролей, двухфакторная аутентификация и мошенники",
+      "file": "account-security.md",
+      "web_path": "WEB/me_and_state/me_and_gosuslugi/concepts/account-security.md"
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Что делать, если услуга не оказана, произошла ошибка или нужна помощь",
+      "file": "service-problems-and-help.md",
+      "web_path": "WEB/me_and_state/me_and_gosuslugi/concepts/service-problems-and-help.md"
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Что такое гражданство и зачем оно нужно",
+      "file": "what-citizenship-is.md",
+      "web_path": "WEB/me_and_state/me_and_citizenship/concepts/what-citizenship-is.md"
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Как приобретается гражданство Российской Федерации",
+      "file": "how-russian-citizenship-is-acquired.md",
+      "web_path": "WEB/me_and_state/me_and_citizenship/concepts/how-russian-citizenship-is-acquired.md"
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Права и обязанности гражданина",
+      "file": "citizen-rights-and-duties.md",
+      "web_path": "WEB/me_and_state/me_and_citizenship/concepts/citizen-rights-and-duties.md"
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Двойное гражданство и второе гражданство: разрешено ли и что за этим следует",
+      "file": "dual-and-second-citizenship.md",
+      "web_path": "WEB/me_and_state/me_and_citizenship/concepts/dual-and-second-citizenship.md"
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Как подтвердить гражданство и получить паспорт",
+      "file": "confirm-citizenship-and-passport.md",
+      "web_path": "WEB/me_and_state/me_and_citizenship/concepts/confirm-citizenship-and-passport.md"
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Утрата, выход и лишение гражданства: возможно ли это",
+      "file": "loss-and-renunciation-of-citizenship.md",
+      "web_path": "WEB/me_and_state/me_and_citizenship/concepts/loss-and-renunciation-of-citizenship.md"
+    }
+  ]
+}

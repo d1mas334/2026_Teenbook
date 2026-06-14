@@ -1,28 +1,32 @@
 {
   "concepts": [
     {
-      "name": "Зачем нужны законы, если не все их соблюдают",
-      "file": "why-laws-exist.md"
+      "name": "Что такое портал «Госуслуги» и зачем он нужен",
+      "file": "what-gosuslugi-is.md"
     },
     {
-      "name": "Что считается правонарушением",
-      "file": "what-is-an-offense.md"
+      "name": "Уровни учётной записи: упрощённая, стандартная, подтверждённая",
+      "file": "account-levels.md"
     },
     {
-      "name": "Административная и уголовная ответственность — в чем разница",
-      "file": "administrative-vs-criminal-responsibility.md"
+      "name": "Как зарегистрироваться и подтвердить личность",
+      "file": "registration-and-verification.md"
     },
     {
-      "name": "Незнание закона освобождает от ответственности или нет",
-      "file": "ignorance-of-law.md"
+      "name": "Какие услуги доступны до 14, с 14 и с 18 лет",
+      "file": "services-by-age.md"
     },
     {
-      "name": "Почему нельзя “просто пошутить” с законом",
-      "file": "jokes-and-law.md"
+      "name": "Электронная подпись и согласие законного представителя",
+      "file": "electronic-signature-and-parental-consent.md"
     },
     {
-      "name": "Как понять, где шутка, а где уже нарушение",
-      "file": "joke-or-offense.md"
+      "name": "Безопасность: защита паролей, двухфакторная аутентификация и мошенники",
+      "file": "account-security.md"
+    },
+    {
+      "name": "Что делать, если услуга не оказана, произошла ошибка или нужна помощь",
+      "file": "service-problems-and-help.md"
     }
   ]
 }

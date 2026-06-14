@@ -1,28 +1,28 @@
 {
   "concepts": [
     {
-      "name": "Зачем нужны законы, если не все их соблюдают",
-      "file": "why-laws-exist.md"
+      "name": "Когда и как подросток может обратиться за медицинской помощью",
+      "file": "teen-medical-help.md"
     },
     {
-      "name": "Что считается правонарушением",
-      "file": "what-is-an-offense.md"
+      "name": "Какие права есть у несовершеннолетнего пациента",
+      "file": "minor-patient-rights.md"
     },
     {
-      "name": "Административная и уголовная ответственность — в чем разница",
-      "file": "administrative-vs-criminal-responsibility.md"
+      "name": "Согласие на медицинское вмешательство: кто и когда даёт",
+      "file": "medical-consent.md"
     },
     {
-      "name": "Незнание закона освобождает от ответственности или нет",
-      "file": "ignorance-of-law.md"
+      "name": "Что делать, если отказывают в помощи",
+      "file": "medical-help-refusal.md"
     },
     {
-      "name": "Почему нельзя “просто пошутить” с законом",
-      "file": "jokes-and-law.md"
+      "name": "Врачебная тайна и конфиденциальность",
+      "file": "medical-confidentiality.md"
     },
     {
-      "name": "Как понять, где шутка, а где уже нарушение",
-      "file": "joke-or-offense.md"
+      "name": "Куда жаловаться на нарушение прав в медицине",
+      "file": "medical-rights-complaints.md"
     }
   ]
 }
