@@ -1,0 +1,28 @@
+{
+  "concepts": [
+    {
+      "name": "Что означает полная дееспособность с 18 лет",
+      "file": "full-legal-capacity-after-18.md"
+    },
+    {
+      "name": "Новые права: гражданские, политические, семейные и трудовые",
+      "file": "new-adult-rights.md"
+    },
+    {
+      "name": "Полная ответственность: уголовная, административная и материальная",
+      "file": "full-adult-responsibility.md"
+    },
+    {
+      "name": "Воинская обязанность и воинский учёт",
+      "file": "military-duty-and-registration.md"
+    },
+    {
+      "name": "Медицинские и образовательные права после 18 лет",
+      "file": "medical-and-education-rights-after-18.md"
+    },
+    {
+      "name": "Как подготовиться ко взрослой правовой жизни",
+      "file": "preparing-for-adult-legal-life.md"
+    }
+  ]
+}

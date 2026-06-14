@@ -1,0 +1,28 @@
+{
+  "concepts": [
+    {
+      "name": "Когда и как подросток может обратиться за медицинской помощью",
+      "file": "teen-medical-help.md"
+    },
+    {
+      "name": "Какие права есть у несовершеннолетнего пациента",
+      "file": "minor-patient-rights.md"
+    },
+    {
+      "name": "Согласие на медицинское вмешательство: кто и когда даёт",
+      "file": "medical-consent.md"
+    },
+    {
+      "name": "Что делать, если отказывают в помощи",
+      "file": "medical-help-refusal.md"
+    },
+    {
+      "name": "Врачебная тайна и конфиденциальность",
+      "file": "medical-confidentiality.md"
+    },
+    {
+      "name": "Куда жаловаться на нарушение прав в медицине",
+      "file": "medical-rights-complaints.md"
+    }
+  ]
+}

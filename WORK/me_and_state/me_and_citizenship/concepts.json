@@ -1,0 +1,28 @@
+{
+  "concepts": [
+    {
+      "name": "Что такое гражданство и зачем оно нужно",
+      "file": "what-citizenship-is.md"
+    },
+    {
+      "name": "Как приобретается гражданство Российской Федерации",
+      "file": "how-russian-citizenship-is-acquired.md"
+    },
+    {
+      "name": "Права и обязанности гражданина",
+      "file": "citizen-rights-and-duties.md"
+    },
+    {
+      "name": "Двойное гражданство и второе гражданство: разрешено ли и что за этим следует",
+      "file": "dual-and-second-citizenship.md"
+    },
+    {
+      "name": "Как подтвердить гражданство и получить паспорт",
+      "file": "confirm-citizenship-and-passport.md"
+    },
+    {
+      "name": "Утрата, выход и лишение гражданства: возможно ли это",
+      "file": "loss-and-renunciation-of-citizenship.md"
+    }
+  ]
+}

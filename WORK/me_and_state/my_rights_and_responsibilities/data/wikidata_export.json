@@ -1,0 +1,194 @@
+{
+  "project": "Я и государство: Мои права и обязанности",
+  "source": "Wikidata Entity Search API",
+  "concepts": [
+    {
+      "search_term": "права ребенка",
+      "matches": [
+        {
+          "id": "Q8354948",
+          "label": "права ребёнка",
+          "description": "human rights of children",
+          "url": "http://www.wikidata.org/entity/Q8354948"
+        },
+        {
+          "id": "Q1521415",
+          "label": "Права ребёнка",
+          "description": "social and political movement advocating the rights of children",
+          "url": "http://www.wikidata.org/entity/Q1521415"
+        }
+      ]
+    },
+    {
+      "search_term": "несовершеннолетний",
+      "matches": [
+        {
+          "id": "Q170079",
+          "label": "несовершеннолетний",
+          "description": "person below a certain age prescribed by law, usually distinguished to delineate rights, privileges, and responsibilities",
+          "url": "http://www.wikidata.org/entity/Q170079"
+        }
+      ]
+    },
+    {
+      "search_term": "правоспособность",
+      "matches": [
+        {
+          "id": "Q889137",
+          "label": "правоспособность",
+          "description": "possibility to acquire rights and contract obligations for oneself",
+          "url": "http://www.wikidata.org/entity/Q889137"
+        },
+        {
+          "id": "Q106695792",
+          "label": "БСЭ1/Правоспособность",
+          "description": "статья в Большой советской энциклопедии, 1-е изд. (1926—1947)",
+          "url": "http://www.wikidata.org/entity/Q106695792"
+        },
+        {
+          "id": "Q87030118",
+          "label": "ЭСГ/Правоспособность",
+          "description": "статья в энциклопедическом словаре Гранат",
+          "url": "http://www.wikidata.org/entity/Q87030118"
+        }
+      ]
+    },
+    {
+      "search_term": "дееспособность",
+      "matches": [
+        {
+          "id": "Q572718",
+          "label": "умственная компетентность",
+          "description": "powers assigned to an administration, be it central, regional, local, etc",
+          "url": "http://www.wikidata.org/entity/Q572718"
+        },
+        {
+          "id": "Q584804",
+          "label": "дееспособность",
+          "description": "quality of natural and juridical persons necessary for their actions to have legal effect",
+          "url": "http://www.wikidata.org/entity/Q584804"
+        }
+      ]
+    },
+    {
+      "search_term": "юридическая ответственность",
+      "matches": [
+        {
+          "id": "Q1404417",
+          "label": "правовая ответственность",
+          "description": "legal obligation for any damage, enforceable by either civil law or criminal law",
+          "url": "http://www.wikidata.org/entity/Q1404417"
+        }
+      ]
+    },
+    {
+      "search_term": "обязанность",
+      "matches": [
+        {
+          "id": "Q1274115",
+          "label": "ответственность",
+          "description": "состояние быть ответственным, иметь влияние на определённые события и потенциально нести бремя их последствий",
+          "url": "http://www.wikidata.org/entity/Q1274115"
+        },
+        {
+          "id": "Q1425577",
+          "label": "обещание",
+          "description": "commitment by someone to do or not do something, or declaration of honesty",
+          "url": "http://www.wikidata.org/entity/Q1425577"
+        },
+        {
+          "id": "Q1367590",
+          "label": "правоотношение",
+          "description": "правовое отношение между субъектами права",
+          "url": "http://www.wikidata.org/entity/Q1367590"
+        },
+        {
+          "id": "Q9012745",
+          "label": "бремя доказывания",
+          "description": "in law, the obligation on a party in a trial to produce evidence",
+          "url": "http://www.wikidata.org/entity/Q9012745"
+        },
+        {
+          "id": "Q167524",
+          "label": "Обязанность защищать",
+          "description": "international political doctrine",
+          "url": "http://www.wikidata.org/entity/Q167524"
+        }
+      ]
+    },
+    {
+      "search_term": "образование",
+      "matches": [
+        {
+          "id": "Q8434",
+          "label": "образование",
+          "description": "система обучения и приобретённые знания",
+          "url": "http://www.wikidata.org/entity/Q8434"
+        },
+        {
+          "id": "Q113976572",
+          "label": "образование",
+          "description": "making knowledge and skills available in a given subject or area",
+          "url": "http://www.wikidata.org/entity/Q113976572"
+        },
+        {
+          "id": "Q1217379",
+          "label": "воспитание",
+          "description": "преднамеренное и систематическое воздействие взрослых на поведение детей и подростков",
+          "url": "http://www.wikidata.org/entity/Q1217379"
+        },
+        {
+          "id": "Q2653450",
+          "label": "Образование",
+          "description": "German tradition of self-cultivation",
+          "url": "http://www.wikidata.org/entity/Q2653450"
+        },
+        {
+          "id": "Q55605752",
+          "label": "Образование",
+          "description": "фильм 2019 года режиссёра Оливии Уайлд",
+          "url": "http://www.wikidata.org/entity/Q55605752"
+        }
+      ]
+    },
+    {
+      "search_term": "защита прав ребенка",
+      "matches": []
+    },
+    {
+      "search_term": "уполномоченный по правам ребенка",
+      "matches": [
+        {
+          "id": "Q4476324",
+          "label": "Уполномоченный при президенте Российской Федерации по правам ребёнка",
+          "description": "children's ombudsman in Russia",
+          "url": "http://www.wikidata.org/entity/Q4476324"
+        },
+        {
+          "id": "Q137940052",
+          "label": "УПОЛНОМОЧЕННЫЙ ПО ПРАВАМ РЕБЕНКА",
+          "description": "position in Kostroma Oblast",
+          "url": "http://www.wikidata.org/entity/Q137940052"
+        },
+        {
+          "id": "Q137940191",
+          "label": "УПОЛНОМОЧЕННЫЙ ПО ПРАВАМ РЕБЕНКА",
+          "description": "position in Leningrad Oblast",
+          "url": "http://www.wikidata.org/entity/Q137940191"
+        },
+        {
+          "id": "Q98392982",
+          "label": "Уполномоченный по правам ребёнка Исландии",
+          "description": "public authority in charge of rights of children",
+          "url": "http://www.wikidata.org/entity/Q98392982"
+        },
+        {
+          "id": "Q48567033",
+          "label": "Уполномоченный по правам человека в г. Москве",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q48567033"
+        }
+      ]
+    }
+  ]
+}

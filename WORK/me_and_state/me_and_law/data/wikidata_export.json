@@ -1,0 +1,230 @@
+{
+  "project": "Я и государство: Я и закон",
+  "source": "Wikidata Entity Search API",
+  "concepts": [
+    {
+      "search_term": "закон",
+      "matches": [
+        {
+          "id": "Q7748",
+          "label": "закон",
+          "description": "правило регулирования общественных отношений",
+          "url": "http://www.wikidata.org/entity/Q7748"
+        },
+        {
+          "id": "Q820655",
+          "label": "закон",
+          "description": "определённый тип принимаемых парламентом нормативно-правовых актов",
+          "url": "http://www.wikidata.org/entity/Q820655"
+        },
+        {
+          "id": "Q105210",
+          "label": "закон",
+          "description": "тип универсального принципа",
+          "url": "http://www.wikidata.org/entity/Q105210"
+        },
+        {
+          "id": "Q947596",
+          "label": "Закон",
+          "description": "фильм 1990 года",
+          "url": "http://www.wikidata.org/entity/Q947596"
+        },
+        {
+          "id": "Q185351",
+          "label": "юрист",
+          "description": "специалист в области права",
+          "url": "http://www.wikidata.org/entity/Q185351"
+        }
+      ]
+    },
+    {
+      "search_term": "правонарушение",
+      "matches": [
+        {
+          "id": "Q1456832",
+          "label": "правонарушение",
+          "description": "action against the law, subject to punishment",
+          "url": "http://www.wikidata.org/entity/Q1456832"
+        },
+        {
+          "id": "Q896677",
+          "label": "плохой поступок",
+          "description": "незаконное или аморальное действие",
+          "url": "http://www.wikidata.org/entity/Q896677"
+        },
+        {
+          "id": "Q15363138",
+          "label": "правонарушение",
+          "description": "offense",
+          "url": "http://www.wikidata.org/entity/Q15363138"
+        },
+        {
+          "id": "Q1498097",
+          "label": "правонарушение",
+          "description": "type of crime in germany",
+          "url": "http://www.wikidata.org/entity/Q1498097"
+        },
+        {
+          "id": "Q106695794",
+          "label": "БСЭ1/Правонарушение",
+          "description": "статья в Большой советской энциклопедии, 1-е изд. (1926—1947)",
+          "url": "http://www.wikidata.org/entity/Q106695794"
+        }
+      ]
+    },
+    {
+      "search_term": "административное правонарушение",
+      "matches": [
+        {
+          "id": "Q1643844",
+          "label": "Административное правонарушение",
+          "description": "type of unlawful action",
+          "url": "http://www.wikidata.org/entity/Q1643844"
+        }
+      ]
+    },
+    {
+      "search_term": "уголовная ответственность",
+      "matches": [
+        {
+          "id": "Q2543031",
+          "label": "уголовная ответственность",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q2543031"
+        },
+        {
+          "id": "Q4469053",
+          "label": "Уголовно-правовой режим несовершеннолетних",
+          "description": "type of law on juvenile delinquency",
+          "url": "http://www.wikidata.org/entity/Q4469053"
+        },
+        {
+          "id": "Q5185533",
+          "label": "Уголовная ответственность за нарушение авторских прав в США",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q5185533"
+        }
+      ]
+    },
+    {
+      "search_term": "юридическая ответственность",
+      "matches": [
+        {
+          "id": "Q1404417",
+          "label": "правовая ответственность",
+          "description": "legal obligation for any damage, enforceable by either civil law or criminal law",
+          "url": "http://www.wikidata.org/entity/Q1404417"
+        }
+      ]
+    },
+    {
+      "search_term": "хулиганство",
+      "matches": [
+        {
+          "id": "Q219954",
+          "label": "хулиганство",
+          "description": "Нарушающее общественный порядок или противоправное поведение, такое как беспорядки, издевательства и вандализм",
+          "url": "http://www.wikidata.org/entity/Q219954"
+        },
+        {
+          "id": "Q4172746",
+          "label": "Ебись за наследника Медвежонка",
+          "description": "political-artistic performance",
+          "url": "http://www.wikidata.org/entity/Q4172746"
+        }
+      ]
+    },
+    {
+      "search_term": "кибербуллинг",
+      "matches": [
+        {
+          "id": "Q494348",
+          "label": "интернет-травля",
+          "description": "намеренные оскорбления, угрозы, диффамации и сообщение других компрометирующих данных с помощью современных средств коммуникации",
+          "url": "http://www.wikidata.org/entity/Q494348"
+        }
+      ]
+    },
+    {
+      "search_term": "клевета",
+      "matches": [
+        {
+          "id": "Q694190",
+          "label": "клевета",
+          "description": "заведомо ложная порочащая информация или распространение заведомо ложных сведений",
+          "url": "http://www.wikidata.org/entity/Q694190"
+        },
+        {
+          "id": "Q1217187",
+          "label": "Клевета",
+          "description": "картина Боттичелли",
+          "url": "http://www.wikidata.org/entity/Q1217187"
+        },
+        {
+          "id": "Q1419047",
+          "label": "Клевета",
+          "description": "1956 film by Roy Rowland",
+          "url": "http://www.wikidata.org/entity/Q1419047"
+        },
+        {
+          "id": "Q3549370",
+          "label": "Клевета",
+          "description": "рассказ Антона Чехова",
+          "url": "http://www.wikidata.org/entity/Q3549370"
+        },
+        {
+          "id": "Q99269482",
+          "label": "Клевета в Азербайджане в адрес министра обороны РА вызывает смех у экспертов",
+          "description": "статья Викиновостей",
+          "url": "http://www.wikidata.org/entity/Q99269482"
+        }
+      ]
+    },
+    {
+      "search_term": "угроза",
+      "matches": [
+        {
+          "id": "Q1132455",
+          "label": "опасность",
+          "description": "возможность возникновения обстоятельств, которые приведут к ухудшению ситуации",
+          "url": "http://www.wikidata.org/entity/Q1132455"
+        },
+        {
+          "id": "Q707125",
+          "label": "угроза",
+          "description": "запугивание, обещание причинить кому-либо вред или зло",
+          "url": "http://www.wikidata.org/entity/Q707125"
+        },
+        {
+          "id": "Q13582404",
+          "label": "опасность",
+          "description": "situation that is potentially hazardous",
+          "url": "http://www.wikidata.org/entity/Q13582404"
+        },
+        {
+          "id": "Q1748149",
+          "label": "Угроза",
+          "description": "персонаж из комиксов Marvel",
+          "url": "http://www.wikidata.org/entity/Q1748149"
+        },
+        {
+          "id": "Q3210660",
+          "label": "Угроза",
+          "description": "фильм Жерара Ури (1961)",
+          "url": "http://www.wikidata.org/entity/Q3210660"
+        }
+      ]
+    },
+    {
+      "search_term": "общественный порядок",
+      "matches": [
+        {
+          "id": "Q1797815",
+          "label": "общественный порядок",
+          "description": "система отношений между людьми, правил взаимного поведения и общежития",
+          "url": "http://www.wikidata.org/entity/Q1797815"
+        }
+      ]
+    }
+  ]
+}

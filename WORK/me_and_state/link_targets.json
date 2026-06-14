@@ -1,0 +1,649 @@
+{
+  "targets": [
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Зачем нужен паспорт и что меняется после 14 лет",
+      "target": "WEB/me_and_state/my_documents/concepts/passport-after-14.md",
+      "aliases": [
+        "паспорт",
+        "документ",
+        "документы",
+        "14 лет"
+      ]
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "СНИЛС, ИНН, полис ОМС — что это и где используется",
+      "target": "WEB/me_and_state/my_documents/concepts/snils-inn-oms.md",
+      "aliases": [
+        "СНИЛС",
+        "ИНН",
+        "полис ОМС",
+        "ОМС"
+      ]
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Регистрация по месту жительства — зачем она нужна",
+      "target": "WEB/me_and_state/my_documents/concepts/residence-registration.md",
+      "aliases": [
+        "регистрация",
+        "место жительства",
+        "место пребывания"
+      ]
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Что делать, если потерял документы",
+      "target": "WEB/me_and_state/my_documents/concepts/lost-documents.md",
+      "aliases": [
+        "потерял документы",
+        "потеря документов",
+        "восстановление документов"
+      ]
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Почему нельзя отдавать паспорт и данные кому попало",
+      "target": "WEB/me_and_state/my_documents/concepts/personal-data-safety.md",
+      "aliases": [
+        "персональные данные",
+        "личные данные",
+        "паспортные данные"
+      ]
+    },
+    {
+      "section": "my_documents",
+      "topic": "Мои документы",
+      "title": "Электронные документы и Госуслуги — удобно или опасно",
+      "target": "WEB/me_and_state/my_documents/concepts/digital-documents-and-gosuslugi.md",
+      "aliases": [
+        "электронные документы",
+        "Госуслуги",
+        "цифровые сервисы"
+      ]
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Какие права есть у подростка",
+      "target": "WEB/me_and_state/my_rights_and_responsibilities/concepts/teen-rights.md",
+      "aliases": [
+        "права подростка",
+        "права",
+        "защита прав"
+      ]
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Что я уже могу решать сам, а где нужны родители",
+      "target": "WEB/me_and_state/my_rights_and_responsibilities/concepts/what-i-can-decide.md",
+      "aliases": [
+        "самостоятельно",
+        "решать сам",
+        "родители",
+        "законные представители"
+      ]
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Ответственность несовершеннолетних — с какого возраста и за что",
+      "target": "WEB/me_and_state/my_rights_and_responsibilities/concepts/minor-responsibility.md",
+      "aliases": [
+        "ответственность несовершеннолетних",
+        "несовершеннолетний",
+        "ответственность"
+      ]
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Права в школе, дома и на улице",
+      "target": "WEB/me_and_state/my_rights_and_responsibilities/concepts/rights-at-school-home-street.md",
+      "aliases": [
+        "права в школе",
+        "права дома",
+        "права на улице"
+      ]
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Почему права идут вместе с обязанностями",
+      "target": "WEB/me_and_state/my_rights_and_responsibilities/concepts/rights-and-duties.md",
+      "aliases": [
+        "обязанности",
+        "права и обязанности"
+      ]
+    },
+    {
+      "section": "my_rights_and_responsibilities",
+      "topic": "Мои права и обязанности",
+      "title": "Куда обращаться, если мои права нарушают",
+      "target": "WEB/me_and_state/my_rights_and_responsibilities/concepts/where-to-get-help.md",
+      "aliases": [
+        "куда обращаться",
+        "помощь",
+        "нарушают права"
+      ]
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Зачем нужны законы, если не все их соблюдают",
+      "target": "WEB/me_and_state/me_and_law/concepts/why-laws-exist.md",
+      "aliases": [
+        "закон",
+        "законы",
+        "правила"
+      ]
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Что считается правонарушением",
+      "target": "WEB/me_and_state/me_and_law/concepts/what-is-an-offense.md",
+      "aliases": [
+        "правонарушение",
+        "нарушение"
+      ]
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Административная и уголовная ответственность — в чем разница",
+      "target": "WEB/me_and_state/me_and_law/concepts/administrative-vs-criminal-responsibility.md",
+      "aliases": [
+        "административная ответственность",
+        "уголовная ответственность"
+      ]
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Незнание закона освобождает от ответственности или нет",
+      "target": "WEB/me_and_state/me_and_law/concepts/ignorance-of-law.md",
+      "aliases": [
+        "незнание закона"
+      ]
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Почему нельзя “просто пошутить” с законом",
+      "target": "WEB/me_and_state/me_and_law/concepts/jokes-and-law.md",
+      "aliases": [
+        "шутка",
+        "пошутить"
+      ]
+    },
+    {
+      "section": "me_and_law",
+      "topic": "Я и закон",
+      "title": "Как понять, где шутка, а где уже нарушение",
+      "target": "WEB/me_and_state/me_and_law/concepts/joke-or-offense.md",
+      "aliases": [
+        "граница",
+        "где шутка",
+        "где нарушение"
+      ]
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Какие права есть у ученика",
+      "target": "WEB/me_and_state/school_as_part_of_state/concepts/student-rights.md",
+      "aliases": [
+        "права ученика",
+        "ученик"
+      ]
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Что школа обязана делать для учеников",
+      "target": "WEB/me_and_state/school_as_part_of_state/concepts/school-responsibilities.md",
+      "aliases": [
+        "школа обязана",
+        "обязанности школы",
+        "безопасные условия"
+      ]
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Устав школы — зачем он нужен",
+      "target": "WEB/me_and_state/school_as_part_of_state/concepts/school-charter.md",
+      "aliases": [
+        "устав школы",
+        "устав"
+      ]
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Оценки, дисциплина и жалобы — где границы",
+      "target": "WEB/me_and_state/school_as_part_of_state/concepts/grades-discipline-complaints.md",
+      "aliases": [
+        "оценки",
+        "дисциплина",
+        "жалобы"
+      ]
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Что делать, если учитель или одноклассники нарушают твои права",
+      "target": "WEB/me_and_state/school_as_part_of_state/concepts/rights-violation-at-school.md",
+      "aliases": [
+        "нарушают твои права",
+        "нарушение прав в школе"
+      ]
+    },
+    {
+      "section": "school_as_part_of_state",
+      "topic": "Я и школа как часть государства",
+      "title": "Школьное самоуправление — можно ли реально влиять",
+      "target": "WEB/me_and_state/school_as_part_of_state/concepts/student-self-government.md",
+      "aliases": [
+        "школьное самоуправление",
+        "самоуправление",
+        "совет учеников"
+      ]
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Когда полиция может остановить подростка",
+      "target": "WEB/me_and_state/me_and_police/concepts/when-police-can-stop-a-teen.md",
+      "aliases": [
+        "полиция может остановить",
+        "остановить подростка",
+        "полиция"
+      ]
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Как вести себя при разговоре с полицейским",
+      "target": "WEB/me_and_state/me_and_police/concepts/how-to-talk-to-police.md",
+      "aliases": [
+        "полицейский",
+        "разговор с полицейским"
+      ]
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Можно ли требовать позвонить родителям",
+      "target": "WEB/me_and_state/me_and_police/concepts/calling-parents.md",
+      "aliases": [
+        "позвонить родителям",
+        "связаться с родителями"
+      ]
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Что делать, если тебя забрали в отделение",
+      "target": "WEB/me_and_state/me_and_police/concepts/taken-to-police-station.md",
+      "aliases": [
+        "отделение",
+        "отделение полиции",
+        "забрали в отделение"
+      ]
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Почему важно не грубить и не подписывать непонятное",
+      "target": "WEB/me_and_state/me_and_police/concepts/do-not-sign-unclear-documents.md",
+      "aliases": [
+        "подписывать",
+        "непонятные документы",
+        "подпись"
+      ]
+    },
+    {
+      "section": "me_and_police",
+      "topic": "Я и полиция",
+      "title": "Куда жаловаться, если полиция нарушила права",
+      "target": "WEB/me_and_state/me_and_police/concepts/complaints-about-police.md",
+      "aliases": [
+        "жаловаться",
+        "жалоба",
+        "полиция нарушила права"
+      ]
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Когда и как подросток может обратиться за медицинской помощью",
+      "target": "WEB/me_and_state/me_and_medicine/concepts/teen-medical-help.md",
+      "aliases": [
+        "медицинская помощь",
+        "обратиться к врачу",
+        "врач"
+      ]
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Какие права есть у несовершеннолетнего пациента",
+      "target": "WEB/me_and_state/me_and_medicine/concepts/minor-patient-rights.md",
+      "aliases": [
+        "права пациента",
+        "несовершеннолетний пациент",
+        "пациент"
+      ]
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Согласие на медицинское вмешательство: кто и когда даёт",
+      "target": "WEB/me_and_state/me_and_medicine/concepts/medical-consent.md",
+      "aliases": [
+        "медицинское вмешательство",
+        "согласие",
+        "информированное согласие"
+      ]
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Что делать, если отказывают в помощи",
+      "target": "WEB/me_and_state/me_and_medicine/concepts/medical-help-refusal.md",
+      "aliases": [
+        "отказывают в помощи",
+        "отказ в помощи"
+      ]
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Врачебная тайна и конфиденциальность",
+      "target": "WEB/me_and_state/me_and_medicine/concepts/medical-confidentiality.md",
+      "aliases": [
+        "врачебная тайна",
+        "конфиденциальность"
+      ]
+    },
+    {
+      "section": "me_and_medicine",
+      "topic": "Я и медицина",
+      "title": "Куда жаловаться на нарушение прав в медицине",
+      "target": "WEB/me_and_state/me_and_medicine/concepts/medical-rights-complaints.md",
+      "aliases": [
+        "жалоба в медицине",
+        "Росздравнадзор",
+        "страховая компания"
+      ]
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Что означает полная дееспособность с 18 лет",
+      "target": "WEB/me_and_state/me_after_18_years_old/concepts/full-legal-capacity-after-18.md",
+      "aliases": [
+        "18 лет",
+        "полная дееспособность",
+        "совершеннолетие"
+      ]
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Новые права: гражданские, политические, семейные и трудовые",
+      "target": "WEB/me_and_state/me_after_18_years_old/concepts/new-adult-rights.md",
+      "aliases": [
+        "новые права",
+        "взрослые права"
+      ]
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Полная ответственность: уголовная, административная и материальная",
+      "target": "WEB/me_and_state/me_after_18_years_old/concepts/full-adult-responsibility.md",
+      "aliases": [
+        "полная ответственность",
+        "материальная ответственность"
+      ]
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Воинская обязанность и воинский учёт",
+      "target": "WEB/me_and_state/me_after_18_years_old/concepts/military-duty-and-registration.md",
+      "aliases": [
+        "воинская обязанность",
+        "воинский учет",
+        "армия"
+      ]
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Медицинские и образовательные права после 18 лет",
+      "target": "WEB/me_and_state/me_after_18_years_old/concepts/medical-and-education-rights-after-18.md",
+      "aliases": [
+        "образовательные права",
+        "медицинские права"
+      ]
+    },
+    {
+      "section": "me_after_18_years_old",
+      "topic": "Я после 18 лет",
+      "title": "Как подготовиться ко взрослой правовой жизни",
+      "target": "WEB/me_and_state/me_after_18_years_old/concepts/preparing-for-adult-legal-life.md",
+      "aliases": [
+        "взрослая правовая жизнь",
+        "подготовиться",
+        "самостоятельность"
+      ]
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Что такое выборы и зачем они нужны",
+      "target": "WEB/me_and_state/me_and_election/concepts/what-elections-are-for.md",
+      "aliases": [
+        "выборы",
+        "голосование"
+      ]
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Активное и пассивное избирательное право: возраст и условия",
+      "target": "WEB/me_and_state/me_and_election/concepts/active-and-passive-voting-rights.md",
+      "aliases": [
+        "избирательное право",
+        "активное право",
+        "пассивное право"
+      ]
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Как найти свой избирательный участок и проголосовать",
+      "target": "WEB/me_and_state/me_and_election/concepts/how-to-vote.md",
+      "aliases": [
+        "избирательный участок",
+        "проголосовать"
+      ]
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Правила поведения на участке и тайна голосования",
+      "target": "WEB/me_and_state/me_and_election/concepts/polling-station-rules.md",
+      "aliases": [
+        "тайна голосования",
+        "участок"
+      ]
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Как стать наблюдателем или членом избирательной комиссии",
+      "target": "WEB/me_and_state/me_and_election/concepts/election-observer-or-commission-member.md",
+      "aliases": [
+        "наблюдатель",
+        "избирательная комиссия"
+      ]
+    },
+    {
+      "section": "me_and_election",
+      "topic": "Я и выборы",
+      "title": "Куда сообщить о нарушениях на выборах",
+      "target": "WEB/me_and_state/me_and_election/concepts/election-violations.md",
+      "aliases": [
+        "нарушения на выборах",
+        "сообщить о нарушениях"
+      ]
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Что такое портал «Госуслуги» и зачем он нужен",
+      "target": "WEB/me_and_state/me_and_gosuslugi/concepts/what-gosuslugi-is.md",
+      "aliases": [
+        "портал Госуслуги",
+        "государственные услуги"
+      ]
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Уровни учётной записи: упрощённая, стандартная, подтверждённая",
+      "target": "WEB/me_and_state/me_and_gosuslugi/concepts/account-levels.md",
+      "aliases": [
+        "учетная запись",
+        "подтвержденная учетная запись"
+      ]
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Как зарегистрироваться и подтвердить личность",
+      "target": "WEB/me_and_state/me_and_gosuslugi/concepts/registration-and-verification.md",
+      "aliases": [
+        "зарегистрироваться",
+        "подтвердить личность"
+      ]
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Какие услуги доступны до 14, с 14 и с 18 лет",
+      "target": "WEB/me_and_state/me_and_gosuslugi/concepts/services-by-age.md",
+      "aliases": [
+        "услуги доступны",
+        "до 14",
+        "с 14",
+        "с 18"
+      ]
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Электронная подпись и согласие законного представителя",
+      "target": "WEB/me_and_state/me_and_gosuslugi/concepts/electronic-signature-and-parental-consent.md",
+      "aliases": [
+        "электронная подпись",
+        "согласие законного представителя"
+      ]
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Безопасность: защита паролей, двухфакторная аутентификация и мошенники",
+      "target": "WEB/me_and_state/me_and_gosuslugi/concepts/account-security.md",
+      "aliases": [
+        "безопасность аккаунта",
+        "двухфакторная аутентификация",
+        "мошенники"
+      ]
+    },
+    {
+      "section": "me_and_gosuslugi",
+      "topic": "Я и Госуслуги",
+      "title": "Что делать, если услуга не оказана, произошла ошибка или нужна помощь",
+      "target": "WEB/me_and_state/me_and_gosuslugi/concepts/service-problems-and-help.md",
+      "aliases": [
+        "услуга не оказана",
+        "ошибка",
+        "нужна помощь"
+      ]
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Что такое гражданство и зачем оно нужно",
+      "target": "WEB/me_and_state/me_and_citizenship/concepts/what-citizenship-is.md",
+      "aliases": [
+        "гражданство",
+        "гражданин"
+      ]
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Как приобретается гражданство Российской Федерации",
+      "target": "WEB/me_and_state/me_and_citizenship/concepts/how-russian-citizenship-is-acquired.md",
+      "aliases": [
+        "гражданство Российской Федерации",
+        "гражданство России"
+      ]
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Права и обязанности гражданина",
+      "target": "WEB/me_and_state/me_and_citizenship/concepts/citizen-rights-and-duties.md",
+      "aliases": [
+        "права гражданина",
+        "обязанности гражданина"
+      ]
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Двойное гражданство и второе гражданство: разрешено ли и что за этим следует",
+      "target": "WEB/me_and_state/me_and_citizenship/concepts/dual-and-second-citizenship.md",
+      "aliases": [
+        "двойное гражданство",
+        "второе гражданство"
+      ]
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Как подтвердить гражданство и получить паспорт",
+      "target": "WEB/me_and_state/me_and_citizenship/concepts/confirm-citizenship-and-passport.md",
+      "aliases": [
+        "подтвердить гражданство",
+        "получить паспорт"
+      ]
+    },
+    {
+      "section": "me_and_citizenship",
+      "topic": "Я и гражданство",
+      "title": "Утрата, выход и лишение гражданства: возможно ли это",
+      "target": "WEB/me_and_state/me_and_citizenship/concepts/loss-and-renunciation-of-citizenship.md",
+      "aliases": [
+        "выход из гражданства",
+        "утрата гражданства",
+        "лишение гражданства"
+      ]
+    }
+  ]
+}

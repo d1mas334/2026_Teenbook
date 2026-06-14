@@ -1,0 +1,28 @@
+{
+  "concepts": [
+    {
+      "name": "Что такое выборы и зачем они нужны",
+      "file": "what-elections-are-for.md"
+    },
+    {
+      "name": "Активное и пассивное избирательное право: возраст и условия",
+      "file": "active-and-passive-voting-rights.md"
+    },
+    {
+      "name": "Как найти свой избирательный участок и проголосовать",
+      "file": "how-to-vote.md"
+    },
+    {
+      "name": "Правила поведения на участке и тайна голосования",
+      "file": "polling-station-rules.md"
+    },
+    {
+      "name": "Как стать наблюдателем или членом избирательной комиссии",
+      "file": "election-observer-or-commission-member.md"
+    },
+    {
+      "name": "Куда сообщить о нарушениях на выборах",
+      "file": "election-violations.md"
+    }
+  ]
+}

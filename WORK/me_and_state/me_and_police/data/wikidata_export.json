@@ -1,0 +1,260 @@
+{
+  "project": "Я и государство: Я и полиция",
+  "source": "Wikidata Entity Search API",
+  "concepts": [
+    {
+      "search_term": "полиция",
+      "matches": [
+        {
+          "id": "Q35535",
+          "label": "полиция",
+          "description": "государственное учреждение, в задачу которого входит поддержание порядка в обществе",
+          "url": "http://www.wikidata.org/entity/Q35535"
+        },
+        {
+          "id": "Q930154",
+          "label": "Полиция",
+          "description": "фильм Чарли Чаплина",
+          "url": "http://www.wikidata.org/entity/Q930154"
+        },
+        {
+          "id": "Q751127",
+          "label": "Полиция",
+          "description": "1985 film by Maurice Pialat",
+          "url": "http://www.wikidata.org/entity/Q751127"
+        },
+        {
+          "id": "Q3030826",
+          "label": "Полиция",
+          "description": "Trinidad and Tobago football club",
+          "url": "http://www.wikidata.org/entity/Q3030826"
+        },
+        {
+          "id": "Q13859327",
+          "label": "Полиция",
+          "description": "роман Ю Несбё",
+          "url": "http://www.wikidata.org/entity/Q13859327"
+        }
+      ]
+    },
+    {
+      "search_term": "полиция России",
+      "matches": [
+        {
+          "id": "Q1188211",
+          "label": "Полиция России",
+          "description": "составная часть единой централизованной системы МВД РФ",
+          "url": "http://www.wikidata.org/entity/Q1188211"
+        },
+        {
+          "id": "Q18408209",
+          "label": "Полиция России",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q18408209"
+        },
+        {
+          "id": "Q123553936",
+          "label": "Полиция Российской империи",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q123553936"
+        }
+      ]
+    },
+    {
+      "search_term": "сотрудник полиции",
+      "matches": [
+        {
+          "id": "Q361593",
+          "label": "офицер полиции",
+          "description": "police officer with the fiduciary relationship of being a \"Beamter\"",
+          "url": "http://www.wikidata.org/entity/Q361593"
+        },
+        {
+          "id": "Q16699822",
+          "label": "Сотрудник полиции",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q16699822"
+        }
+      ]
+    },
+    {
+      "search_term": "правоохранительные органы",
+      "matches": [
+        {
+          "id": "Q732717",
+          "label": "правоохранительные органы",
+          "description": "government agency responsible for the enforcement of the laws",
+          "url": "http://www.wikidata.org/entity/Q732717"
+        },
+        {
+          "id": "Q1527859",
+          "label": "Правоохранительные органы Великобритании",
+          "description": "national law enforcement of the U.K.",
+          "url": "http://www.wikidata.org/entity/Q1527859"
+        },
+        {
+          "id": "Q3499138",
+          "label": "Правоохранительные органы Словении",
+          "description": "national law enforcement agency of Slovenia",
+          "url": "http://www.wikidata.org/entity/Q3499138"
+        },
+        {
+          "id": "Q3595371",
+          "label": "правоохранительные органы Индии",
+          "description": "Indian police",
+          "url": "http://www.wikidata.org/entity/Q3595371"
+        },
+        {
+          "id": "Q2858778",
+          "label": "Правоохранительные органы в Канаде",
+          "description": "overview of law enforcement in Canada",
+          "url": "http://www.wikidata.org/entity/Q2858778"
+        }
+      ]
+    },
+    {
+      "search_term": "общественный порядок",
+      "matches": [
+        {
+          "id": "Q1797815",
+          "label": "общественный порядок",
+          "description": "система отношений между людьми, правил взаимного поведения и общежития",
+          "url": "http://www.wikidata.org/entity/Q1797815"
+        }
+      ]
+    },
+    {
+      "search_term": "задержание",
+      "matches": [
+        {
+          "id": "Q1403016",
+          "label": "заключение под стражу",
+          "description": "detention of a person and taking them into custody, usually because they have been suspected of committing or planning a crime",
+          "url": "http://www.wikidata.org/entity/Q1403016"
+        },
+        {
+          "id": "Q1071447",
+          "label": "задержание",
+          "description": "Вид государственного принуждения",
+          "url": "http://www.wikidata.org/entity/Q1071447"
+        },
+        {
+          "id": "Q390423",
+          "label": "задержание",
+          "description": "неаккордовая нота, сыгранная до аккорда",
+          "url": "http://www.wikidata.org/entity/Q390423"
+        },
+        {
+          "id": "Q131624919",
+          "label": "Задержание Юн Сок Ёля",
+          "description": "2025 arrest of the suspended president of South Korea",
+          "url": "http://www.wikidata.org/entity/Q131624919"
+        },
+        {
+          "id": "Q137671877",
+          "label": "арест Николаса Мадуро",
+          "description": "захват президента Венесуэлы Николаса Мадуры, осуществлённый спецподразделением «Дельта» армии США 3 января 2026",
+          "url": "http://www.wikidata.org/entity/Q137671877"
+        }
+      ]
+    },
+    {
+      "search_term": "протокол",
+      "matches": [
+        {
+          "id": "Q3847997",
+          "label": "протокол",
+          "description": "дополнительное или изменяющее соглашение к конвенции, заключенной между государствами",
+          "url": "http://www.wikidata.org/entity/Q3847997"
+        },
+        {
+          "id": "Q367158",
+          "label": "протокол",
+          "description": "запись хода эксперимента",
+          "url": "http://www.wikidata.org/entity/Q367158"
+        },
+        {
+          "id": "Q638547",
+          "label": "Протокол",
+          "description": "американская комедия 1984 года",
+          "url": "http://www.wikidata.org/entity/Q638547"
+        },
+        {
+          "id": "Q15028038",
+          "label": "протокол",
+          "description": "transcript of an observed sequence of events",
+          "url": "http://www.wikidata.org/entity/Q15028038"
+        },
+        {
+          "id": "Q87026468",
+          "label": "ЭСГ/Протокол",
+          "description": "статья в энциклопедическом словаре Гранат",
+          "url": "http://www.wikidata.org/entity/Q87026468"
+        }
+      ]
+    },
+    {
+      "search_term": "права ребенка",
+      "matches": [
+        {
+          "id": "Q8354948",
+          "label": "права ребёнка",
+          "description": "human rights of children",
+          "url": "http://www.wikidata.org/entity/Q8354948"
+        },
+        {
+          "id": "Q1521415",
+          "label": "Права ребёнка",
+          "description": "social and political movement advocating the rights of children",
+          "url": "http://www.wikidata.org/entity/Q1521415"
+        }
+      ]
+    },
+    {
+      "search_term": "несовершеннолетний",
+      "matches": [
+        {
+          "id": "Q170079",
+          "label": "несовершеннолетний",
+          "description": "person below a certain age prescribed by law, usually distinguished to delineate rights, privileges, and responsibilities",
+          "url": "http://www.wikidata.org/entity/Q170079"
+        }
+      ]
+    },
+    {
+      "search_term": "прокуратура",
+      "matches": [
+        {
+          "id": "Q1092499",
+          "label": "прокуратура",
+          "description": "система органов, осуществляющих от имени государства высший надзор за соблюдением законодательства",
+          "url": "http://www.wikidata.org/entity/Q1092499"
+        },
+        {
+          "id": "Q83558770",
+          "label": "ЭСГ/Прокуратура",
+          "description": "статья в энциклопедическом словаре Гранат",
+          "url": "http://www.wikidata.org/entity/Q83558770"
+        },
+        {
+          "id": "Q2387440",
+          "label": "Прокуратура Российской Федерации",
+          "description": "независимая организация, следящая за соблюдением Конституции России и исполнением законов, действующих на её территории",
+          "url": "http://www.wikidata.org/entity/Q2387440"
+        },
+        {
+          "id": "Q2070502",
+          "label": "Генеральная прокуратура СССР",
+          "description": "государственная организация, следуя за порядком в государственной конституции",
+          "url": "http://www.wikidata.org/entity/Q2070502"
+        },
+        {
+          "id": "Q4135344",
+          "label": "Генеральная прокуратура Армении",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q4135344"
+        }
+      ]
+    }
+  ]
+}

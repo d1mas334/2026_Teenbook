@@ -1,0 +1,28 @@
+{
+  "concepts": [
+    {
+      "name": "Зачем нужен паспорт и что меняется после 14 лет",
+      "file": "passport-after-14.md"
+    },
+    {
+      "name": "СНИЛС, ИНН, полис ОМС — что это и где используется",
+      "file": "snils-inn-oms.md"
+    },
+    {
+      "name": "Регистрация по месту жительства — зачем она нужна",
+      "file": "residence-registration.md"
+    },
+    {
+      "name": "Что делать, если потерял документы",
+      "file": "lost-documents.md"
+    },
+    {
+      "name": "Почему нельзя отдавать паспорт и данные кому попало",
+      "file": "personal-data-safety.md"
+    },
+    {
+      "name": "Электронные документы и Госуслуги — удобно или опасно",
+      "file": "digital-documents-and-gosuslugi.md"
+    }
+  ]
+}

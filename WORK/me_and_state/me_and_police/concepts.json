@@ -1,0 +1,28 @@
+{
+  "concepts": [
+    {
+      "name": "Когда полиция может остановить подростка",
+      "file": "when-police-can-stop-a-teen.md"
+    },
+    {
+      "name": "Как вести себя при разговоре с полицейским",
+      "file": "how-to-talk-to-police.md"
+    },
+    {
+      "name": "Можно ли требовать позвонить родителям",
+      "file": "calling-parents.md"
+    },
+    {
+      "name": "Что делать, если тебя забрали в отделение",
+      "file": "taken-to-police-station.md"
+    },
+    {
+      "name": "Почему важно не грубить и не подписывать непонятное",
+      "file": "do-not-sign-unclear-documents.md"
+    },
+    {
+      "name": "Куда жаловаться, если полиция нарушила права",
+      "file": "complaints-about-police.md"
+    }
+  ]
+}
